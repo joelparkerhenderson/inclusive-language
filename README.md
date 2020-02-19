@@ -42,10 +42,10 @@ We welcome contributions in other languages.
 <tr><td>caveman</td><td>cave dweller</td></tr>
 <tr><td>chairman</td><td>chair, chairperson, coordinator, head</td></tr>
 <tr><td>councilman</td><td>councilperson, council member</td></tr>
-<tr><td>congressman</td><td>legislator, congressional representative</td></tr>
+<tr><td>congressman</td><td>congressperson, congressional representative, legislator</td></tr>
 <tr><td>doorman</td><td>doorperson, security guard</td></tr>
 <tr><td>fireman</td><td>firefighter</td></tr>
-<tr><td>freshman</td><td>first-year student</td></tr>
+<tr><td>freshman</td><td>first-year student, first-year member</td></tr>
 <tr><td>mailman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>man (n.)</td><td>person, individual</td></tr>
 <tr><td>man (v.)</td><td>to guard, to staff, to mind [the store]</td></tr>
@@ -57,6 +57,7 @@ We welcome contributions in other languages.
 <tr><td>newsman</td><td>newsperson, reporter, correspondent</td></tr>
 <tr><td>policeman</td><td>police officer</td></tr>
 <tr><td>postman</td><td>mail carrier, letter carrier, postal worker</td></tr>
+<tr><td>spokesman</td><td>spokesperson, speaker</td></tr>
 <tr><td>steward, stewardess</td><td>flight attendant</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
 <tr><td>Sir (in “Dear Sir,” etc.)</td><td>Dear Reader, Dear Member, To Whom it May Concern</td></tr>
