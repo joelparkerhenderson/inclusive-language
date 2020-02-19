@@ -42,7 +42,9 @@ We welcome contributions in other languages.
 <tr><td>businessman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>caveman</td><td>cave dweller</td></tr>
 <tr><td>chairman</td><td>chair, chairperson, coordinator, head</td></tr>
+<tr><td>clergyman</td><td>clergyperson, clergy member</td></tr>
 <tr><td>councilman</td><td>councilperson, council member</td></tr>
+<tr><td>committeeman</td><td>committeeperson, committee member</td></tr>
 <tr><td>congressman</td><td>congressperson, congressional representative, legislator</td></tr>
 <tr><td>doorman</td><td>doorperson, security guard</td></tr>
 <tr><td>fireman</td><td>firefighter</td></tr>
