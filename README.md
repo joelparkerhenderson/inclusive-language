@@ -52,6 +52,7 @@ We welcome contributions in other languages.
 <tr><td>fireman</td><td>firefighter</td></tr>
 <tr><td>freshman</td><td>first-year student, first-year member</td></tr>
 <tr><td>gentleman</td><td>gentleperson</td></tr>
+<tr><td>layman</td><td>layperson, church member, nonordained person</td></tr>
 <tr><td>mailman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>man (n.)</td><td>person, individual</td></tr>
 <tr><td>man (v.)</td><td>to guard, to staff, to mind [the store]</td></tr>
