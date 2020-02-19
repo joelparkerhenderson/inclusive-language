@@ -36,6 +36,7 @@ We welcome contributions in other languages.
 <table class="words">
 <tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
 <tr><td>actress</td><td>actor</td></tr>
+<tr><td>airman</td><td>airperson, air crew member, pilot</td></tr>
 <tr><td>anchorman</td><td>anchor, anchorperson, newscaster</td></tr>
 <tr><td>bellboy</td><td>bellhop</td></tr>
 <tr><td>businessman</td><td>businessperson, executive, manager</td></tr>
