@@ -67,6 +67,7 @@ We welcome contributions in other languages.
 <tr><td>policeman</td><td>police officer</td></tr>
 <tr><td>postman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>spokesman</td><td>spokesperson, speaker</td></tr>
+<tr><td>statesman</td><td>statesperson, political leader, policy maker</td></tr>
 <tr><td>steward, stewardess</td><td>flight attendant</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
 <tr><td>Sir (in “Dear Sir,” etc.)</td><td>Dear Reader, Dear Member, To Whom it May Concern</td></tr>
