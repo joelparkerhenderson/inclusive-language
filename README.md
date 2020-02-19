@@ -48,6 +48,7 @@ We welcome contributions in other languages.
 <tr><td>congressman</td><td>congressperson, congressional representative, legislator</td></tr>
 <tr><td>craftsman</td><td>craftsperson, crafter</td></tr>
 <tr><td>doorman</td><td>doorperson, security guard</td></tr>
+<tr><td>everyman</td><td>everyperson, the common person, the average person</td></tr>
 <tr><td>fireman</td><td>firefighter</td></tr>
 <tr><td>freshman</td><td>first-year student, first-year member</td></tr>
 <tr><td>gentleman</td><td>gentleperson</td></tr>
