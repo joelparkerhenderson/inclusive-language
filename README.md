@@ -63,6 +63,7 @@ We welcome contributions in other languages.
 <tr><td>manpower</td><td>workers, workforce, staffing</td></tr>
 <tr><td>middleman</td><td>intermediary, go-between</td></tr>
 <tr><td>newsman</td><td>newsperson, reporter, correspondent</td></tr>
+<tr><td>ombudsman</td><td>ombudsperson, investigator, appointee</td></tr>
 <tr><td>policeman</td><td>police officer</td></tr>
 <tr><td>postman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>spokesman</td><td>spokesperson, speaker</td></tr>
