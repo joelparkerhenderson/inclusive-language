@@ -46,6 +46,7 @@ We welcome contributions in other languages.
 <tr><td>doorman</td><td>doorperson, security guard</td></tr>
 <tr><td>fireman</td><td>firefighter</td></tr>
 <tr><td>freshman</td><td>first-year student, first-year member</td></tr>
+<tr><td>gentleman</td><td>gentleperson</td></tr>
 <tr><td>mailman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>man (n.)</td><td>person, individual</td></tr>
 <tr><td>man (v.)</td><td>to guard, to staff, to mind [the store]</td></tr>
@@ -63,3 +64,14 @@ We welcome contributions in other languages.
 <tr><td>Sir (in “Dear Sir,” etc.)</td><td>Dear Reader, Dear Member, To Whom it May Concern</td></tr>
 <tr><td>Mr., Ms.</td><td>Mx.</td></tr>
 </table>
+
+
+## References
+
+United Nations - Gender-inclusive language - 
+[Arabic](https://www.un.org/ar/gender-inclusive-language/),
+[Chinese](https://www.un.org/zh/gender-inclusive-language/),
+[English](https://www.un.org/en/gender-inclusive-language/),
+[French](https://www.un.org/fr/gender-inclusive-language/),
+[Spanish](https://www.un.org/es/gender-inclusive-language/),
+[Russian](https://www.un.org/ru/gender-inclusive-language/)
