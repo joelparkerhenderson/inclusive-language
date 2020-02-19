@@ -70,6 +70,7 @@ We welcome contributions in other languages.
 <tr><td>statesman</td><td>statesperson, political leader, policy maker</td></tr>
 <tr><td>steward, stewardess</td><td>flight attendant</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
+<tr><td>weatherman</td><td>weatherperson, weather forecaster, weather reporter</td></tr>
 <tr><td>Sir (in “Dear Sir,” etc.)</td><td>Dear Reader, Dear Member, To Whom it May Concern</td></tr>
 <tr><td>Mr., Ms.</td><td>Mx.</td></tr>
 </table>
