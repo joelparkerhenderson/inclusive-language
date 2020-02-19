@@ -46,6 +46,7 @@ We welcome contributions in other languages.
 <tr><td>councilman</td><td>councilperson, council member</td></tr>
 <tr><td>committeeman</td><td>committeeperson, committee member</td></tr>
 <tr><td>congressman</td><td>congressperson, congressional representative, legislator</td></tr>
+<tr><td>craftsman</td><td>craftsperson, crafter</td></tr>
 <tr><td>doorman</td><td>doorperson, security guard</td></tr>
 <tr><td>fireman</td><td>firefighter</td></tr>
 <tr><td>freshman</td><td>first-year student, first-year member</td></tr>
