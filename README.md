@@ -12,7 +12,7 @@ We welcome contributions in other languages.
 <h3>Pronouns</h3>
 
 <table class="words">
-<tr><td><b>Gendered pronoun</b></td><td><b>Gender-inclusive pronoun</b></td></tr>
+<tr><td><b>Gendered pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
 <tr><td>he, she</td><td>they</td></tr>
 <tr><td>him, her</td><td>them</td></tr>
 <tr><td>his, hers</td><td>theirs</td></tr>
@@ -22,7 +22,7 @@ We welcome contributions in other languages.
 <h3>Families</h3>
 
 <table class="words">
-<tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive noun</b></td></tr>
+<tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive singular noun</b></td></tr>
 <tr><td>mother, father</td><td>parent</td></tr>
 <tr><td>daughter, son</td><td>child</td></tr>
 <tr><td>sister, brother</td><td>sibling</td></tr>
