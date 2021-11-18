@@ -91,7 +91,7 @@ We welcome contributions in other languages.
 <h3>Trans-related</h3>
 
 <table class="words">
-<tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
+<tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
 <tr><td>preferred pronouns</td><td>personal pronouns</td></tr>
 <tr><td>transsexual</td><td>trans person or transgender person</td></tr>
 <tr><td>sex change, sex reassignment</td><td>gender affirmation, transition care, change of gender marker</td></tr>
