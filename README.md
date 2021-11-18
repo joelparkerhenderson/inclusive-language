@@ -31,6 +31,17 @@ We welcome contributions in other languages.
 <tr><td>girlfriend, boyfriend</td><td>friend, partner, significant other</td></tr>
 </table>
 
+<h3>Greetings</h3>
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td>ladies &amp; gentlemen</td><td>everyone, guests, colleagues, etc.</td></tr>
+<tr><td>boys &amp; girls</td><td>child</td>everyone, children, students, etc.</tr>
+<tr><td>sir/madam (as in "Dear Sir/Madam")</td><td>Reader, Member, Manager, Participant, etc.</td></tr>
+<tr><td>Mr., Ms.</td><td>Mx.</td></tr>
+</table>
+
+
 <h3>Nouns &amp; verbs</h3>
 
 <table class="words">
@@ -71,8 +82,6 @@ We welcome contributions in other languages.
 <tr><td>steward, stewardess</td><td>flight attendant</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
 <tr><td>weatherman</td><td>weatherperson, weather forecaster, weather reporter</td></tr>
-<tr><td>Sir (in “Dear Sir,” etc.)</td><td>Dear Reader, Dear Member, To Whom it May Concern</td></tr>
-<tr><td>Mr., Ms.</td><td>Mx.</td></tr>
 </table>
 
 
