@@ -85,12 +85,30 @@ We welcome contributions in other languages.
 </table>
 
 
+<h3>Trans-related</h3>
+
+<table class="words">
+<tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
+<tr><td>preferred pronouns</td><td>personal pronouns</td></tr>
+<tr><td>transsexual</td><td>trans person or transgender person</td></tr>
+<tr><td>sex change, sex reassignment</td><td>gender affirmation, transition care, change of gender marker</td></tr>
+<tr><td>bilogical man/woman</td><td>cisgender person or non-transgender person</td></tr>
+<tr><td>feminine/female pronouns</td><td>she/her pronouns</td></tr>
+<tr><td>masculine/male pronouns</td><td>he/him pronouns</td></tr>
+<tr><td>hermaphrodite</td><td>intersex</td></tr>
+<tr><td>lifestyle or preference</td><td>orientation or identity</td></tr>
+</table>
+  
 ## References
 
-United Nations - Gender-inclusive language - 
+* United Nations - Gender-inclusive language - 
 [Arabic](https://www.un.org/ar/gender-inclusive-language/),
 [Chinese](https://www.un.org/zh/gender-inclusive-language/),
 [English](https://www.un.org/en/gender-inclusive-language/),
 [French](https://www.un.org/fr/gender-inclusive-language/),
 [Spanish](https://www.un.org/es/gender-inclusive-language/),
 [Russian](https://www.un.org/ru/gender-inclusive-language/)
+
+* [Good Practices: Inclusive Language](https://lgbtq.umd.edu/good-practices-inclusive-language)
+
+* [Merriam-Webster: Words At Play: Mx. Gender Neutral Title](https://www.merriam-webster.com/words-at-play/mx-gender-neutral-title)
