@@ -27,8 +27,10 @@ We welcome contributions in other languages.
 <tr><td>daughter, son</td><td>child</td></tr>
 <tr><td>sister, brother</td><td>sibling</td></tr>
 <tr><td>niece, nephew</td><td>nibling</td></tr>
-<tr><td>wife, husband</td><td>spouse</td></tr>
-<tr><td>girlfriend, boyfriend</td><td>friend, partner, significant other</td></tr>
+<tr><td>aunt, uncle</td><td>auncle</td></tr>
+<tr><td>wife, husband</td><td>spouse, consort</td></tr>
+<tr><td>fiancée, fiancé</td><td>fiancé (one é, same as the male form)</td></tr>
+<tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 </table>
 
 <h3>Greetings</h3>
@@ -112,4 +114,4 @@ We welcome contributions in other languages.
 
 * [Good Practices: Inclusive Language](https://lgbtq.umd.edu/good-practices-inclusive-language)
 
-* [Merriam-Webster: Words At Play: Mx. Gender Neutral Title](https://www.merriam-webster.com/words-at-play/mx-gender-neutral-title)
+* [Merriam-Webster: Mx.](https://www.merriam-webster.com/dictionary/Mx.)
