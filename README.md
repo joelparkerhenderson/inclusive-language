@@ -36,7 +36,7 @@ We welcome contributions in other languages.
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>ladies &amp; gentlemen</td><td>everyone, guests, colleagues, etc.</td></tr>
-<tr><td>boys &amp; girls</td><td>child</td>everyone, children, students, etc.</tr>
+<tr><td>boys &amp; girls</td><td>everyone, children, students, etc.</td></tr>
 <tr><td>sir/madam (as in "Dear Sir/Madam")</td><td>Reader, Member, Manager, Participant, etc.</td></tr>
 <tr><td>Mr., Ms.</td><td>Mx.</td></tr>
 </table>
