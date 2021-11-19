@@ -39,10 +39,10 @@ We welcome contributions in other languages.
 <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
 <tr><td>daughter, son</td><td>child</td></tr>
 <tr><td>sister, brother</td><td>sibling</td></tr>
-<tr><td>sisterhood, brotherhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
 <tr><td>girl, boy</td><td>child, youth, youngster</td></tr>
 <tr><td>niece, nephew</td><td>nibling</td></tr>
 <tr><td>aunt, uncle</td><td>auncle</td></tr>
+<tr><td>fraternal twins</td><td>non-identical twins</td></tr>
 </table>
 
 
@@ -73,6 +73,10 @@ We welcome contributions in other languages.
 <tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
 <tr><td>boy, girl</td><td>person, individual, child</td></tr>
 <tr><td>brethren</td><td>laity</td></tr>
+<tr><td>brotherhood, sisterhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
+<tr><td>brotherly, sisterly</td><td>siblingly, kindly, helpfully</td></tr>
+<tr><td>brotherly love, sisterly love</td><td>siblingly love, charity, goodwill</td></tr>
+<tr><td>coed</td><td>student</td></tr>
 <tr><td>man, woman</td><td>person, individual, adult</td></tr>
 <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
 <tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
@@ -99,18 +103,25 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 <tr><td>brakeman, brakewoman</td><td>brake operator, train conductor's assistant</td></tr>
 <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
+<tr><td>careerman, careerwoman</td><td>careerperson, business person, professional</td></tr>
 <tr><td>caveman, cavewoman</td><td>cave person, cave dweller</td></tr>
 <tr><td>chairman, chairwoman</td><td>chair, chairperson, coordinator, head</td></tr>
 <tr><td>clergyman, clergywoman</td><td>clergyperson, clergy member</td></tr>
 <tr><td>councilman, councilwoman</td><td>councilperson, council member</td></tr>
 <tr><td>committeeman, committeewoman</td><td>committeeperson, committee member</td></tr>
+<tr><td>confidence-man, confidence-woman</td><td>confidence-person, swindler, crook</td></tr>
 <tr><td>congressman, congresswoman</td><td>congressperson, congressional representative, legislator</td></tr>
+<tr><td>contact-man, contact-woman</td><td>contact-person, contact, coordinator</td></tr>
 <tr><td>countryman, countrywoman</td><td>countryperson, compatriot, fellow citizen</td></tr>
 <tr><td>craftsman, craftswoman</td><td>craftsperson, crafter, craft maker, artisan</td></tr>
 <tr><td>crewman, crewwoman</td><td>crewperson, crew member</td></tr>
+<tr><td>dairyman, dairywoman</td><td>dairyperson, dairy farmer, dairy worker</td></tr>
+<tr><td>deliveryman, deliverywoman</td><td>deliveryperson, deliverer, courier, clerk</td></tr>
 <tr><td>doorman, doorwoman</td><td>doorperson, door attendant, security guard</td></tr>
 <tr><td>draftsman, draftswoman</td><td>draftsperson, drafter</td></tr>
+<tr><td>enlisted man, enlisted woman</td><td>enlisted person, enlistee, soldier, recruit</td></tr>
 <tr><td>everyman, everywoman</td><td>everyperson, the common person, the average person</td></tr>
+<tr><td>fall guy, fall gal</td><td>fall person, scapegoat</td></tr>
 <tr><td>fireman, firewoman</td><td>firefighter</td></tr>
 <tr><td>fisherman, fisherwoman</td><td>fisherperson, fisher, angler</td></tr>
 <tr><td>foreman, forewoman</td><td>foreperson, manager, supervisor</td></tr>
@@ -174,6 +185,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 <tr><td>cabinboy, cabingirl</td><td>cabinperson, cabin attendant, cabin helper</td></tr>
 <tr><td>choirboy, choirgirl</td><td>choirperson, choir member, choir singer</td></tr>
 <tr><td>chorusboy, chorusgirl</td><td>chorusperson, chorus member, chorus singer</td></tr>
+<tr><td>copyboy, copygirl</td><td>copyperson, copy clerk, copy maker</td></tr>
 <tr><td>cowboy, cowgirl</td><td>cowperson, cowhand, ranch hand</td></tr>
 <tr><td>flyboy, flygirl</td><td>flyperson, pilot, aviator</td></tr>
 <tr><td>newsboy, newsgirl</td><td>newsperson, news seller, paper carrier</td></tr>
@@ -185,12 +197,15 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 
 ### Roles that end with -ess
 
-Roles that end with feminine suffix "-ess" can change to omit the end.
+Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
 <tr><td>actor, actress</td><td>actor, performer</td></tr>
+<tr><td>comedian, comedienne</td><td>comedian, humorist</td></tr>
+<tr><td>conductor, conductress</td><td>conductor, coordinator</td></tr>
 <tr><td>host, hostess</td><td>host, welcomer</td></tr>
+<tr><td>major, majorette</td><td>major, dancer</td></tr>
 <tr><td>patron, patroness</td><td>patron, funder</td></tr>
 <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
 <tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
@@ -208,6 +223,7 @@ Roles that end with feminine suffix "-ess" can change to omit the end.
 Phrases with "man" can change to use "one" or "person".
 
 <table class="words">
+<tr><td>founding fathers, founding mothers</td><td>founding parents, founding leaders, founders</td></tr>
 <tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area</td></tr>
 <tr><td>no man is an island</td><td>no one is an island</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
