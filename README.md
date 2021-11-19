@@ -9,7 +9,7 @@ We welcome constructive feedback.
 We welcome contributions in other languages.
 
 
-<h3>Pronouns</h3>
+### Pronouns
 
 <table class="words">
 <tr><td><b>Gendered pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
@@ -19,7 +19,7 @@ We welcome contributions in other languages.
 </table>
 
 
-<h3>Families</h3>
+### Relationships
 
 <table class="words">
 <tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive singular noun</b></td></tr>
@@ -34,7 +34,8 @@ We welcome contributions in other languages.
 <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 </table>
 
-<h3>Greetings</h3>
+
+### Greetings
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
@@ -46,7 +47,7 @@ We welcome contributions in other languages.
 </table>
 
 
-<h3>Nouns &amp; verbs</h3>
+### Nouns &amp; verbs
 
 <table class="words">
 <tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
@@ -138,7 +139,7 @@ We welcome contributions in other languages.
 </table>
 
 
-<h3>Trans-related</h3>
+### Trans-related
 
 <table class="words">
 <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
