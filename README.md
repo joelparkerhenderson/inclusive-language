@@ -27,7 +27,7 @@ We welcome contributions in other languages.
 <tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
 <tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
 <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
-<tr><td>Mr., Ms., Mrs., Miss</td><td>Mx. (pronounced "mix")</td></tr>
+<tr><td>Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
 </table>
 
 
@@ -63,15 +63,14 @@ We welcome contributions in other languages.
 
 ### Nouns &amp; verbs
 
-Words that use "man" or "woman" can change to use "person", "adult", "one", or alternatives.
-
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
 <tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
-<tr><td>man (n.), woman (n.)</td><td>person, individual</td></tr>
-<tr><td>man (v.)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
+<tr><td>boy, girl</td><td>person, individual, child</td></tr>
+<tr><td>man, woman</td><td>person, individual, adult</td></tr>
+<tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
 <tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
 <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
 <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
