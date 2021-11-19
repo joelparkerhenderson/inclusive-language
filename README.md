@@ -61,6 +61,7 @@ We welcome contributions in other languages.
 <tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
 <tr><td>bachelor, bachelorette</td><td>bachelorx (pronounced bachelor-ex)</td></tr>
 <tr><td>hen party, stag party</td><td>animal party, fox party, nearlywed party</td></tr>
+<tr><td>maiden name</td><td>family name, birth name</td></tr>
 </table>
 
 
@@ -84,6 +85,7 @@ We welcome contributions in other languages.
 <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
 <tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
 <tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
+<tr><td>motherland, fatherland</td><td>homeland</td></tr>
 </table>
 
 
@@ -188,6 +190,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 <tr><td>copyboy, copygirl</td><td>copyperson, copy clerk, copy maker</td></tr>
 <tr><td>cowboy, cowgirl</td><td>cowperson, cowhand, ranch hand</td></tr>
 <tr><td>flyboy, flygirl</td><td>flyperson, pilot, aviator</td></tr>
+<tr><td>boy Friday, girl Friday</td><td>aide, assistant, helper</td></tr>
 <tr><td>newsboy, newsgirl</td><td>newsperson, news seller, paper carrier</td></tr>
 <tr><td>officeboy, officegirl</td><td>officeperson, clerk, messenger, assistant</td></tr>
 <tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
@@ -195,7 +198,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 </table>
 
 
-### Roles that end with -ess
+### Roles that end with -ess -enne -ette
 
 Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
 
@@ -206,6 +209,7 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 <tr><td>conductor, conductress</td><td>conductor, coordinator</td></tr>
 <tr><td>host, hostess</td><td>host, welcomer</td></tr>
 <tr><td>major, majorette</td><td>major, dancer</td></tr>
+<tr><td>masseur, masseuse</td><td>masseur, massage therapist</td></tr>  
 <tr><td>patron, patroness</td><td>patron, funder</td></tr>
 <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
 <tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
@@ -223,7 +227,19 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 Phrases with "man" can change to use "one" or "person".
 
 <table class="words">
+<tr><td>forefathers, foremothers</td><td>foreparents, forebearers, ancestors</td></tr>
 <tr><td>founding fathers, founding mothers</td><td>founding parents, founding leaders, founders</td></tr>
+<tr><td>gentlemen's agreement, gentlewomen's agreement</td><td>unwritten agreement, honor agreement</td></tr>
+<tr><td>grandfather clause, grandmother clause</td><td>pre-existing clause, pre-defined clause</td></tr>
+<tr><td>John Q. Public, Jane Q. Public</td><td>the public</td></tr>
+<tr><td>maiden voyage</td><td>first voyage</td></tr>
+<tr><td>man about town, woman about town</td><td>bon vivant, mover and shaker</td></tr>
+<tr><td>man among men, woman among women</td><td>outstanding person, excellent person</td></tr>
+<tr><td>man of action, woman of action</td><td>action-oriented person, go-getter, dynamo</td></tr>
+<tr><td>man of distinction, woman of distinction</td><td>person of distinction, notable person</td></tr>
+<tr><td>man of letters, woman of letters</td><td>person of letters, academic, scholar</td></tr>
+<tr><td>man of the hour, woman of the hour</td><td>person of the hour, newsmaker of the hour</td></tr>
+<tr><td>man to man, woman to woman</td><td>person to person, face to face, head to head</td></tr>  
 <tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area</td></tr>
 <tr><td>no man is an island</td><td>no one is an island</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
