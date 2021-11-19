@@ -8,10 +8,22 @@ We welcome constructive feedback.
 
 We welcome contributions in other languages.
 
-* [](#)
+* [Pronouns](#pronouns)
+* [General](#general)
+* [Greetings](#greetings)
+* [Families](#families)
+* [Nouns &amp; verbs](#nouns-and-verbs)
+* [Roles with -man or -woman](#roles-with-man-or-woman)
+* [Roles with -boy or -girl](#roles-with-boy-or-girl)
+* [Roles with -ess -enne -ette](#roles-with-ess-enne-ette)
+* [Roles with -master or -mistress](#roles-with-master-or-mistress)
+* [Phrases](#phrases)
+* [Weddings](#weddings)
+* [Trans-related](#trans-related)
+* [References](#references)
 
 
-### Pronouns
+## Pronouns
 
 <table class="words">
 <tr><td><b>Gendered pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
@@ -21,7 +33,7 @@ We welcome contributions in other languages.
 </table>
 
 
-### General
+## General
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
@@ -33,7 +45,7 @@ We welcome contributions in other languages.
 </table>
 
 
-### Greetings
+## Greetings
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
@@ -45,7 +57,7 @@ We welcome contributions in other languages.
 </table>
 
 
-### Families
+## Families
 
 <table class="words">
 <tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive singular noun</b></td></tr>
@@ -60,50 +72,27 @@ We welcome contributions in other languages.
 </table>
 
 
-### Relationships
-
-<table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
-<tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
-<tr><td>wife, husband</td><td>spouse, consort</td></tr>
-<tr><td>fiancée, fiancé</td><td>nearlywed, fiancé (one é), spouse-to-be</td></tr>
-<tr><td>bride, groom</td><td>newlywed, marrier, celebrant, spouse, broom</td></tr>
-<tr><td>maid of honor, matron of honor, man of honor</td><td>person of honor</td></tr>
-<tr><td>best man, best maid, best matron</td><td>best person</td></tr>
-<tr><td>bridesmaid, groomsman</td><td>attendant</td></tr>
-<tr><td>bridesmaids, groomsmen</td><td>attendants, wedding party</td></tr>
-<tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
-<tr><td>bachelor, bachelorette</td><td>bachelorx (pronounced bachelor-ex)</td></tr>
-<tr><td>hen party, stag party</td><td>animal party, fox party, nearlywed party</td></tr>
-<tr><td>maiden name</td><td>family name, birth name</td></tr>
-</table>
-
-
-### Nouns &amp; verbs
+## Miscellaneous
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
-<tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
-<tr><td>boy, girl</td><td>person, individual, child</td></tr>
 <tr><td>brethren</td><td>laity</td></tr>
 <tr><td>brotherhood, sisterhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
 <tr><td>brotherly, sisterly</td><td>siblingly, kindly, helpfully</td></tr>
 <tr><td>brotherly love, sisterly love</td><td>siblingly love, charity, goodwill</td></tr>
 <tr><td>coed</td><td>student</td></tr>
-<tr><td>man, woman</td><td>person, individual, adult</td></tr>
 <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
-<tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
 <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
 <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
-<tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
-<tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
+<tr><td>manpower, womanpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
+<tr><td>meter-maid, meter-matron, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
 <tr><td>motherland, fatherland</td><td>homeland</td></tr>
 </table>
 
 
-### Roles that end with -man or -woman
+## Roles with -man or -woman
 
 Roles that end with gendered suffix "-man" or "-woman" can change to end with "person" or to an alternative.
 
@@ -116,6 +105,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 <tr><td>assemblyman, assemblywoman</td><td>assemblyperson, assembly member</td></tr>
 <tr><td>barman, barwoman</td><td>barperson, barkeeper</td></tr>
 <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
+<tr><td>boss man, boss woman</td><td>boss, chief, president, leader</td></tr>
 <tr><td>brakeman, brakewoman</td><td>brake operator, train conductor's assistant</td></tr>
 <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
@@ -174,26 +164,12 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 </table>
 
 
-### Roles that end with -master or -mistress
-
-Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-leader" or "-er" or to alternatives.
-
-<table class="words">
-<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
-<tr><td>brewmaster, brewmistress</td><td>brewmaker, brew leader, brewer</td></tr>
-<tr><td>headmaster, headmistress</td><td>headmaker, head leader, head of school, principal</td></tr>
-<tr><td>shipmaster, shipmistress</td><td>shipmaker, ship leader, captain, commander</td></tr>
-<tr><td>taskmaster, taskmistress</td><td>taskmaker, task leader, tasker, director, supervisor, tyrant</td></tr>
-<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster, announcer, head of ceremonies</td></tr>
-</table>
-
-
-### Roles that end with -boy or -girl
+## Roles with -boy or -girl
 
 Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or to alternatives.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
+<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>bagboy, baggirl</td><td>bagperson, bagger, assistant, caddy</td></tr>
 <tr><td>batboy, batgirl</td><td>batperson, bat assistant, caddy</td></tr>
 <tr><td>bellboy, bellgirl</td><td>bellperson, bellhop, hotel attendant</td></tr>
@@ -212,12 +188,12 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 </table>
 
 
-### Roles that end with -ess -enne -ette
+## Roles with -ess -enne -ette
 
 Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
+<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>actor, actress</td><td>actor, performer</td></tr>
 <tr><td>comedian, comedienne</td><td>comedian, humorist</td></tr>
 <tr><td>conductor, conductress</td><td>conductor, coordinator</td></tr>
@@ -236,7 +212,21 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 </table>
 
 
-### Phrases
+## Roles with -master or -mistress
+
+Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-leader" or "-er" or to alternatives.
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
+<tr><td>brewmaster, brewmistress</td><td>brewmaker, brew leader, brewer</td></tr>
+<tr><td>headmaster, headmistress</td><td>headmaker, head leader, head of school, principal</td></tr>
+<tr><td>shipmaster, shipmistress</td><td>shipmaker, ship leader, captain, commander</td></tr>
+<tr><td>taskmaster, taskmistress</td><td>taskmaker, task leader, tasker, director, supervisor, tyrant</td></tr>
+<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster, announcer, head of ceremonies</td></tr>
+</table>
+
+
+## Phrases
 
 Phrases with "man" can change to use "one" or "person".
 
@@ -264,7 +254,7 @@ Phrases with "man" can change to use "one" or "person".
 </table>
 
 
-### Weddings
+## Weddings
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
@@ -283,7 +273,7 @@ Phrases with "man" can change to use "one" or "person".
 </table>
 
 
-### Trans-related
+## Trans-related
 
 Words that sound prescriptive can change to words that are individualistic.
 
