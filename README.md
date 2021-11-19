@@ -71,6 +71,7 @@ We welcome contributions in other languages.
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
 <tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
 <tr><td>boy, girl</td><td>person, individual, child</td></tr>
+<tr><td>brethren</td><td>laity</td></tr>
 <tr><td>man, woman</td><td>person, individual, adult</td></tr>
 <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
 <tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
@@ -78,7 +79,6 @@ We welcome contributions in other languages.
 <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
 <tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
 <tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
-<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster</td></tr>
 </table>
 
 
@@ -95,6 +95,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 <tr><td>assemblyman, assemblywoman</td><td>assemblyperson, assembly member</td></tr>
 <tr><td>barman, barwoman</td><td>barperson, barkeeper</td></tr>
 <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
+<tr><td>brakeman, brakewoman</td><td>brake operator, train conductor's assistant</td></tr>
 <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
 <tr><td>caveman, cavewoman</td><td>cave person, cave dweller</td></tr>
@@ -127,7 +128,6 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 <tr><td>newsman, newswoman</td><td>newsperson, reporter, correspondent</td></tr>
 <tr><td>ombudsman, ombudswoman</td><td>ombudsperson, investigator, appointee</td></tr>
 <tr><td>outdoorsman, outdoorswoman</td><td>outdoors person</td></tr>
-<tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
 <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
 <tr><td>policeman, policewoman</td><td>police officer</td></tr>
 <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
@@ -146,6 +146,20 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 </table>
 
 
+### Roles that end with -master or -mistress
+
+Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-er" or to alternatives.
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
+<tr><td>brewmaster, brewmistress</td><td>brewmaker, brewer</td></tr>
+<tr><td>headmaster, headmistress</td><td>head of school, principal</td></tr>
+<tr><td>shipmaster, shipmistress</td><td>shipmaker, captain, commander</td></tr>
+<tr><td>taskmaster, taskmistress</td><td>taskmaker, tasker, director, supervisor, tyrant</td></tr>
+<tr><td>toastmaster, toastmistress</td><td>toastmaker, toaster, announcer, leader of ceremonies</td></tr>
+</table>
+
+
 ### Roles that end with -boy or -girl
 
 Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives.
@@ -156,6 +170,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives
 <tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
 <tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
 <tr><td>busboy, busgirl</td><td>busser, bus staffer, kitchen helper</td></tr>
+<tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
 <tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
 </table>
 
