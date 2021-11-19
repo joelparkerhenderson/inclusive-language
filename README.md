@@ -63,11 +63,12 @@ We welcome contributions in other languages.
 <tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
 <tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
 <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
-<tr><td>bridesmaid, bridesman</td><td>bride's attendant</td></tr>
 <tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
+<tr><td>bridesmaid, bridesman</td><td>bride's attendant</td></tr>
+<tr><td>busboy, busgirl</td><td>busser, bus staff, kitchen helper</td></tr>
 <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
-<tr><td>caveman, cavewoman</td><td>cave dweller</td></tr>
+<tr><td>caveman, cavewoman</td><td>cave person, cave dweller</td></tr>
 <tr><td>chairman, chairwoman</td><td>chair, chairperson, coordinator, head</td></tr>
 <tr><td>clergyman, clergywoman</td><td>clergyperson, clergy member</td></tr>
 <tr><td>councilman, councilwoman</td><td>councilperson, council member</td></tr>
@@ -98,28 +99,40 @@ We welcome contributions in other languages.
 <tr><td>man (v.)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
 <tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
 <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
-<tr><td>manhole</td><td>utility hole, sewer hole</td></tr>
+<tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
 <tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
 <tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
 <tr><td>middleman, middlewoman</td><td>intermediary, go-between</td></tr>
 <tr><td>newsman, newswoman</td><td>newsperson, reporter, correspondent</td></tr>
+<tr><td>no-man's land</td><td>neutral land, no-go zone, uninhabited area</td></tr>
 <tr><td>ombudsman, ombudswoman</td><td>ombudsperson, investigator, appointee</td></tr>
 <tr><td>outdoorsman, outdoorswoman</td><td>outdoors person</td></tr>
 <tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
 <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
+<tr><td>patron, patroness</td><td>patron, funder, supporter</td></tr>
 <tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
 <tr><td>policeman, policewoman</td><td>police officer</td></tr>
 <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>pressman, presswoman</td><td>press operator</td></tr>
 <tr><td>priest, priestess</td><td>priest</td></tr>
-<tr><td>spokesman, spokeswoman</td><td>spokesperson, speaker</td></tr>
+<tr><td>prodigal son, prodigal daughter</td><td>prodigal child, returning child</td></tr>
+<tr><td>repairman, repairwoman</td><td>repairperson, maintenance person, technician</td></tr>
+<tr><td>sculptor, sculptress</td><td>sculptor</td></tr>
+<tr><td>schoolboy, schoolgirl</td><td>schoolchild, student</td></tr>
 <tr><td>shepherd, shepherdess</td><td>shepherd</td></tr>
-<tr><td>statesman, stateswoman</td><td>statesperson, political leader, policy maker</td></tr>
+<tr><td>snowman, snowwoman</td><td>snowperson</td></tr>
+<tr><td>sorcerer, sorceress</td><td>sorcerer, enchanter</td></tr>
+<tr><td>spokesman, spokeswoman</td><td>spokesperson, speaker, representative</td></tr>
+<tr><td>sportsmansihp, sportswomanship</td><td>sportspersonship, sporting, sporty</td></tr>
+<tr><td>statesman, stateswoman</td><td>statesperson, political leader, policy maker, diplomat</td></tr>
 <tr><td>steward, stewardess</td><td>steward, flight attendant</td></tr>
+<tr><td>tempter, temptress</td><td>tempter, enticer</td></tr>
+<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster</td></tr>
 <tr><td>usher, usherette</td><td>usher, helper</td></tr>
 <tr><td>waiter, waitress</td><td>waiter, server</td></tr>
 <tr><td>watchman, watchwoman</td><td>watchperson, guard, attendant, security officer</td></tr>
-<tr><td>weatherman, weatherwoman</td><td>weatherperson, weather forecaster, weather reporter</td></tr>
+<tr><td>weatherman, weatherwoman</td><td>weatherperson, weathercaster, weather forecaster, weather reporter</td></tr>
+<tr><td>to a man</td><td>to a person</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
 <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
 </table>
@@ -138,7 +151,8 @@ We welcome contributions in other languages.
 <tr><td>hermaphrodite</td><td>intersex</td></tr>
 <tr><td>lifestyle or preference</td><td>orientation or identity</td></tr>
 </table>
-  
+
+
 ## References
 
 * United Nations - Gender-inclusive language - 
