@@ -27,11 +27,11 @@ We welcome contributions in other languages.
 <tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
 <tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
 <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
-<tr><td>Mr., Ms., Mrs., Miss</td><td>Mx.</td></tr>
+<tr><td>Mr., Ms., Mrs., Miss</td><td>Mx. (pronounced "mix")</td></tr>
 </table>
 
 
-### Relationships
+### Families
 
 <table class="words">
 <tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive singular noun</b></td></tr>
@@ -42,9 +42,22 @@ We welcome contributions in other languages.
 <tr><td>girl, boy</td><td>child</td></tr>
 <tr><td>niece, nephew</td><td>nibling</td></tr>
 <tr><td>aunt, uncle</td><td>auncle</td></tr>
-<tr><td>wife, husband</td><td>spouse, consort</td></tr>
-<tr><td>fiancée, fiancé</td><td>fiancé (one é), nearlywed (akin to newlywed)</td></tr>
+</table>
+
+
+### Relationships
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
+<tr><td>wife, husband</td><td>spouse, consort</td></tr>
+<tr><td>fiancée, fiancé</td><td>nearlywed, fiancé (one é), spouse-to-be</td></tr>
+<tr><td>bride, groom</td><td>newlywed, marrier, celebrant, spouse</td></tr>
+<tr><td>maid of honor, man of honor</td><td>person of honor</td></tr>
+<tr><td>best man, best maid</td><td>best person</td></tr>
+<tr><td>bridesmaid, groomsman</td><td>attendant</td></tr>
+<tr><td>bridesmaids, groomsmen</td><td>attendants, wedding party</td></tr>
+<tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
 </table>
 
 
@@ -53,6 +66,7 @@ We welcome contributions in other languages.
 Words that use "man" or "woman" can change to use "person", "adult", "one", or alternatives.
 
 <table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
 <tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
@@ -72,7 +86,7 @@ Words that use "man" or "woman" can change to use "person", "adult", "one", or a
 Roles that end with gendered suffix "-man" or "-woman" can change to end with "person" or to an alternative.
 
 <table class="words">
-<tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
 <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
 <tr><td>airman, airwoman</td><td>airperson, air crew member, pilot</td></tr>
 <tr><td>alderman, alderwoman</td><td>alderperson, council member</td></tr>
@@ -136,6 +150,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives.
 
 <table class="words">
+<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
 <tr><td>bagboy, baggirl</td><td>bagger, assistant, caddy</td></tr>
 <tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
 <tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
@@ -149,6 +164,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives
 Roles that end with feminine suffix "-ess" can change to omit the end.
 
 <table class="words">
+<tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
 <tr><td>actor, actress</td><td>actor, performer</td></tr>
 <tr><td>patron, patroness</td><td>patron, funder</td></tr>
 <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
