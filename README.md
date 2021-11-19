@@ -23,7 +23,7 @@ We welcome contributions in other languages.
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
-<tr><td>ladies &amp; gentlemen</td><td>everyone, guests, attendees, etc.</td></tr>
+<tr><td>ladies &amp; gentlemen</td><td>everyone, welcome guests, honored attendees, etc.</td></tr>
 <tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
 <tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
 <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
@@ -43,7 +43,7 @@ We welcome contributions in other languages.
 <tr><td>niece, nephew</td><td>nibling</td></tr>
 <tr><td>aunt, uncle</td><td>auncle</td></tr>
 <tr><td>wife, husband</td><td>spouse, consort</td></tr>
-<tr><td>fiancée, fiancé</td><td>fiancé (one é, same as the male form)</td></tr>
+<tr><td>fiancée, fiancé</td><td>fiancé (one é), nearlywed (akin to newlywed)</td></tr>
 <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 </table>
 
@@ -53,22 +53,33 @@ We welcome contributions in other languages.
 Words that use "man" or "woman" can change to use "person", "adult", "one", or alternatives.
 
 <table class="words">
-<tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
+<tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
+<tr><td>man (n.), woman (n.)</td><td>person, individual</td></tr>
+<tr><td>man (v.)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
+<tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
+<tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
+<tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
+<tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
+<tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
+<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster</td></tr>
+</table>
+
+
+### Roles that end with -man or -woman
+
+Roles that end with gendered suffix "-man" or "-woman" can change to end with "person" or to an alternative.
+
+<table class="words">
+<tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
 <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
 <tr><td>airman, airwoman</td><td>airperson, air crew member, pilot</td></tr>
 <tr><td>alderman, alderwoman</td><td>alderperson, council member</td></tr>
 <tr><td>anchorman, anchorwoman</td><td>anchor, anchorperson, commentator, newscaster</td></tr>
 <tr><td>assemblyman, assemblywoman</td><td>assemblyperson, assembly member</td></tr>
-<tr><td>bagboy, baggirl</td><td>bagger, assistant, caddy</td></tr>
 <tr><td>barman, barwoman</td><td>barperson, barkeeper</td></tr>
-<tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
-<tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
 <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
-<tr><td>boss man, boss lady</td><td>boss, chief, president, leader</td></tr>
-<tr><td>bridesmaid, bridesman</td><td>bride's attendant</td></tr>
-<tr><td>busboy, busgirl</td><td>busser, bus staff, kitchen helper</td></tr>
 <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
 <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
 <tr><td>caveman, cavewoman</td><td>cave person, cave dweller</td></tr>
@@ -88,7 +99,6 @@ Words that use "man" or "woman" can change to use "person", "adult", "one", or a
 <tr><td>foreman, forewoman</td><td>foreperson, manager, supervisor</td></tr>
 <tr><td>freshman, freshwoman</td><td>first-year student, first-year member</td></tr>
 <tr><td>gentleman, gentlewoman</td><td>gentleperson</td></tr>
-<tr><td>groomsman, groomsmaid</td><td>groom's attendant</td></tr>
 <tr><td>handyman, handywoman</td><td>handyperson, repair person, maintenance worker</td></tr>
 <tr><td>horseman, horsewoman</td><td>horseperson, horse rider, equestrian</td></tr>
 <tr><td>layman, laywoman</td><td>layperson, church member, nonordained person</td></tr>
@@ -98,20 +108,12 @@ Words that use "man" or "woman" can change to use "person", "adult", "one", or a
 <tr><td>letterman, letterwoman</td><td>letterperson, varsity athelete</td></tr>
 <tr><td>lineman, linewoman, linesman, lineswoman</td><td>lineperson, line worker, line maintainer</td></tr>
 <tr><td>mailman, mailwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
-<tr><td>man (n.), woman (n.)</td><td>person, individual</td></tr>
-<tr><td>man (v.)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
-<tr><td>mankind, womankind</td><td>people, human beings, humanity</td></tr>
-<tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
-<tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
-<tr><td>manpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
-<tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
 <tr><td>middleman, middlewoman</td><td>intermediary, go-between</td></tr>
 <tr><td>newsman, newswoman</td><td>newsperson, reporter, correspondent</td></tr>
 <tr><td>ombudsman, ombudswoman</td><td>ombudsperson, investigator, appointee</td></tr>
 <tr><td>outdoorsman, outdoorswoman</td><td>outdoors person</td></tr>
 <tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
 <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
-<tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
 <tr><td>policeman, policewoman</td><td>police officer</td></tr>
 <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>pressman, presswoman</td><td>press operator</td></tr>
@@ -120,12 +122,25 @@ Words that use "man" or "woman" can change to use "person", "adult", "one", or a
 <tr><td>schoolboy, schoolgirl</td><td>schoolchild, student</td></tr>
 <tr><td>snowman, snowwoman</td><td>snowperson</td></tr>
 <tr><td>spokesman, spokeswoman</td><td>spokesperson, speaker, representative</td></tr>
+<tr><td>sportsman, sportswoman</td><td>sportsperson, sport player, athelete, teammate</td></tr>
 <tr><td>sportsmanlike, sportswomanlike</td><td>sportspersonlike, sportlike, sporting, sporty</td></tr>
 <tr><td>sportsmanship, sportswomanship</td><td>sportspersonship, sportship, sporting, sporty</td></tr>
 <tr><td>statesman, stateswoman</td><td>statesperson, political leader, policy maker, diplomat</td></tr>
-<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster</td></tr>
 <tr><td>watchman, watchwoman</td><td>watchperson, guard, attendant, security officer</td></tr>
 <tr><td>weatherman, weatherwoman</td><td>weatherperson, weathercaster, weather forecaster, weather reporter</td></tr>
+</table>
+
+
+### Roles that end with -boy or -girl
+
+Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives.
+
+<table class="words">
+<tr><td>bagboy, baggirl</td><td>bagger, assistant, caddy</td></tr>
+<tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
+<tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
+<tr><td>busboy, busgirl</td><td>busser, bus staffer, kitchen helper</td></tr>
+<tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
 </table>
 
 
@@ -193,4 +208,6 @@ Words that sound prescriptive can change to words that are individualistic.
 
 * [Good Practices: Inclusive Language](https://lgbtq.umd.edu/good-practices-inclusive-language)
 
-* [Merriam-Webster: Mx.](https://www.merriam-webster.com/dictionary/Mx.)
+* [Merriam-Webster: Words at Play: Mx. gender neutral title](https://www.merriam-webster.com/words-at-play/mx-gender-neutral-title)
+
+* [Merriam-Webster: Words at Play: Singular non-binary they](https://www.merriam-webster.com/words-at-play/singular-nonbinary-they)
