@@ -148,15 +148,15 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 
 ### Roles that end with -master or -mistress
 
-Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-er" or to alternatives.
+Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-leader" or "-er" or to alternatives.
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
-<tr><td>brewmaster, brewmistress</td><td>brewmaker, brewer</td></tr>
-<tr><td>headmaster, headmistress</td><td>headmaker, head of school, principal</td></tr>
-<tr><td>shipmaster, shipmistress</td><td>shipmaker, captain, commander</td></tr>
-<tr><td>taskmaster, taskmistress</td><td>taskmaker, tasker, director, supervisor, tyrant</td></tr>
-<tr><td>toastmaster, toastmistress</td><td>toastmaker, toaster, announcer, leader of ceremonies</td></tr>
+<tr><td>brewmaster, brewmistress</td><td>brewmaker, brew leader, brewer</td></tr>
+<tr><td>headmaster, headmistress</td><td>headmaker, head leader, head of school, principal</td></tr>
+<tr><td>shipmaster, shipmistress</td><td>shipmaker, ship leader, captain, commander</td></tr>
+<tr><td>taskmaster, taskmistress</td><td>taskmaker, task leader, tasker, director, supervisor, tyrant</td></tr>
+<tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster, announcer, head of ceremonies</td></tr>
 </table>
 
 
