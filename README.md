@@ -153,7 +153,7 @@ Roles that end with gendered suffix "-master" or "-mistress" can change to end w
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
 <tr><td>brewmaster, brewmistress</td><td>brewmaker, brewer</td></tr>
-<tr><td>headmaster, headmistress</td><td>head of school, principal</td></tr>
+<tr><td>headmaster, headmistress</td><td>headmaker, head of school, principal</td></tr>
 <tr><td>shipmaster, shipmistress</td><td>shipmaker, captain, commander</td></tr>
 <tr><td>taskmaster, taskmistress</td><td>taskmaker, tasker, director, supervisor, tyrant</td></tr>
 <tr><td>toastmaster, toastmistress</td><td>toastmaker, toaster, announcer, leader of ceremonies</td></tr>
