@@ -165,6 +165,7 @@ Roles that end with feminine suffix "-ess" can change to omit the end.
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
 <tr><td>actor, actress</td><td>actor, performer</td></tr>
+<tr><td>host, hostess</td><td>host, welcomer</td></tr>
 <tr><td>patron, patroness</td><td>patron, funder</td></tr>
 <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
 <tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
