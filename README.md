@@ -52,9 +52,9 @@ We welcome contributions in other languages.
 <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 <tr><td>wife, husband</td><td>spouse, consort</td></tr>
 <tr><td>fiancée, fiancé</td><td>nearlywed, fiancé (one é), spouse-to-be</td></tr>
-<tr><td>bride, groom</td><td>newlywed, marrier, celebrant, spouse</td></tr>
-<tr><td>maid of honor, man of honor</td><td>person of honor</td></tr>
-<tr><td>best man, best maid</td><td>best person</td></tr>
+<tr><td>bride, groom</td><td>newlywed, marrier, celebrant, spouse, broom</td></tr>
+<tr><td>maid of honor, matron of honor, man of honor</td><td>person of honor</td></tr>
+<tr><td>best man, best maid, best matron</td><td>best person</td></tr>
 <tr><td>bridesmaid, groomsman</td><td>attendant</td></tr>
 <tr><td>bridesmaids, groomsmen</td><td>attendants, wedding party</td></tr>
 <tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
