@@ -162,16 +162,23 @@ Roles that end with gendered suffix "-master" or "-mistress" can change to end w
 
 ### Roles that end with -boy or -girl
 
-Roles that end with gendered suffix "-boy" or "-girl" can change to alternatives.
+Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or to alternatives.
 
 <table class="words">
 <tr><td><b>Gendered</b></td><td><b>Genderless</b></td></tr>
-<tr><td>bagboy, baggirl</td><td>bagger, assistant, caddy</td></tr>
-<tr><td>batboy, batgirl</td><td>bat assistant, caddy</td></tr>
-<tr><td>bellboy, bellgirl</td><td>bellhop</td></tr>
-<tr><td>busboy, busgirl</td><td>busser, bus staffer, kitchen helper</td></tr>
+<tr><td>bagboy, baggirl</td><td>bagperson, bagger, assistant, caddy</td></tr>
+<tr><td>batboy, batgirl</td><td>batperson, bat assistant, caddy</td></tr>
+<tr><td>bellboy, bellgirl</td><td>bellperson, bellhop, hotel attendant</td></tr>
+<tr><td>busboy, busgirl</td><td>busperson, busser, bus staffer, kitchen helper</td></tr>
+<tr><td>cabinboy, cabingirl</td><td>cabinperson, cabin attendant, cabin helper</td></tr>
+<tr><td>choirboy, choirgirl</td><td>choirperson, choir member, choir singer</td></tr>
+<tr><td>chorusboy, chorusgirl</td><td>chorusperson, chorus member, chorus singer</td></tr>
+<tr><td>cowboy, cowgirl</td><td>cowperson, cowhand, ranch hand</td></tr>
+<tr><td>flyboy, flygirl</td><td>flyperson, pilot, aviator</td></tr>
+<tr><td>newsboy, newsgirl</td><td>newsperson, news seller, paper carrier</td></tr>
+<tr><td>officeboy, officegirl</td><td>officeperson, clerk, messenger, assistant</td></tr>
 <tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
-<tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
+<tr><td>playboy, playgirl</td><td>playperson, partier, carouser, pleasure seeker</td></tr>
 </table>
 
 
