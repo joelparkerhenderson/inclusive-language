@@ -39,7 +39,8 @@ We welcome contributions in other languages.
 <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
 <tr><td>daughter, son</td><td>child</td></tr>
 <tr><td>sister, brother</td><td>sibling</td></tr>
-<tr><td>girl, boy</td><td>child</td></tr>
+<tr><td>sisterhood, brotherhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
+<tr><td>girl, boy</td><td>child, youth, youngster</td></tr>
 <tr><td>niece, nephew</td><td>nibling</td></tr>
 <tr><td>aunt, uncle</td><td>auncle</td></tr>
 </table>
