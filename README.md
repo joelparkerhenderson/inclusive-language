@@ -8,6 +8,8 @@ We welcome constructive feedback.
 
 We welcome contributions in other languages.
 
+* [](#)
+
 
 ### Pronouns
 
@@ -16,6 +18,18 @@ We welcome contributions in other languages.
 <tr><td>he, she</td><td>they</td></tr>
 <tr><td>him, her</td><td>them</td></tr>
 <tr><td>his, hers</td><td>theirs</td></tr>
+</table>
+
+
+### General
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td>boy, girl</td><td>person, individual, child</td></tr>
+<tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
+<tr><td>man, woman</td><td>person, individual, adult</td></tr>
+<tr><td>mankind, womankind</td><td>people, humans, humanity</td></tr>
+<tr><td>husband, wife</td><td>spouse, consort</td></tr>
 </table>
 
 
@@ -247,6 +261,25 @@ Phrases with "man" can change to use "one" or "person".
 <tr><td>the right man for the job</td><td>the right one for the job</td></tr>
 <tr><td>to a man</td><td>to a one</td></tr>
 <tr><td>to the last man</td><td>to the last one</td></tr>
+</table>
+
+
+### Weddings
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
+<tr><td>wife, husband</td><td>spouse, consort</td></tr>
+<tr><td>fiancée, fiancé</td><td>nearlywed, fiancé (one é), spouse-to-be</td></tr>
+<tr><td>bride, groom</td><td>newlywed, marrier, celebrant, spouse, broom</td></tr>
+<tr><td>maid of honor, matron of honor, man of honor</td><td>person of honor</td></tr>
+<tr><td>best man, best maid, best matron</td><td>best person</td></tr>
+<tr><td>bridesmaid, groomsman</td><td>attendant</td></tr>
+<tr><td>bridesmaids, groomsmen</td><td>attendants, wedding party</td></tr>
+<tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
+<tr><td>bachelor, bachelorette</td><td>bachelorx (pronounced bachelor-ex)</td></tr>
+<tr><td>hen party, stag party</td><td>animal party, fox party, nearlywed party</td></tr>
+<tr><td>maiden name</td><td>family name, birth name</td></tr>
 </table>
 
 
