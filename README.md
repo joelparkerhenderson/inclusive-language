@@ -58,6 +58,8 @@ We welcome contributions in other languages.
 <tr><td>bridesmaid, groomsman</td><td>attendant</td></tr>
 <tr><td>bridesmaids, groomsmen</td><td>attendants, wedding party</td></tr>
 <tr><td>flower girl, flower boy</td><td>flower child, flower person, flower pal</td></tr>
+<tr><td>bachelor, bachelorette</td><td>bachelorx (pronounced bachelor-ex)</td></tr>
+<tr><td>hen party, stag party</td><td>animal party, fox party, nearlywed party</td></tr>
 </table>
 
 
