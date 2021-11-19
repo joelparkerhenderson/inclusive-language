@@ -26,7 +26,7 @@ We welcome contributions in other languages.
 ## Pronouns
 
 <table class="words">
-<tr><td><b>Gendered pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
+<tr><td><b>Gendered pronoun</b></td><td><b>Gender-free singular pronoun</b></td></tr>
 <tr><td>he, she</td><td>they</td></tr>
 <tr><td>him, her</td><td>them</td></tr>
 <tr><td>his, hers</td><td>theirs</td></tr>
@@ -36,7 +36,7 @@ We welcome contributions in other languages.
 ## General
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>boy, girl</td><td>person, individual, child</td></tr>
 <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 <tr><td>man, woman</td><td>person, individual, adult</td></tr>
@@ -48,7 +48,7 @@ We welcome contributions in other languages.
 ## Greetings
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>ladies &amp; gentlemen</td><td>everyone, welcome guests, honored attendees, etc.</td></tr>
 <tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
 <tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
@@ -60,7 +60,7 @@ We welcome contributions in other languages.
 ## Families
 
 <table class="words">
-<tr><td><b>Gendered noun</b></td><td><b>Gender-inclusive singular noun</b></td></tr>
+<tr><td><b>Gendered noun</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>mother, father</td><td>parent</td></tr>
 <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
 <tr><td>daughter, son</td><td>child</td></tr>
@@ -75,7 +75,7 @@ We welcome contributions in other languages.
 ## Miscellaneous
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
 <tr><td>brethren</td><td>laity</td></tr>
@@ -97,7 +97,7 @@ We welcome contributions in other languages.
 Roles that end with gendered suffix "-man" or "-woman" can change to end with "person" or to an alternative.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
 <tr><td>airman, airwoman</td><td>airperson, air crew member, pilot</td></tr>
 <tr><td>alderman, alderwoman</td><td>alderperson, council member</td></tr>
@@ -169,7 +169,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or to alternatives.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>bagboy, baggirl</td><td>bagperson, bagger, assistant, caddy</td></tr>
 <tr><td>batboy, batgirl</td><td>batperson, bat assistant, caddy</td></tr>
 <tr><td>bellboy, bellgirl</td><td>bellperson, bellhop, hotel attendant</td></tr>
@@ -193,7 +193,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>actor, actress</td><td>actor, performer</td></tr>
 <tr><td>comedian, comedienne</td><td>comedian, humorist</td></tr>
 <tr><td>conductor, conductress</td><td>conductor, coordinator</td></tr>
@@ -217,7 +217,7 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-leader" or "-er" or to alternatives.
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-free</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>brewmaster, brewmistress</td><td>brewmaker, brew leader, brewer</td></tr>
 <tr><td>headmaster, headmistress</td><td>headmaker, head leader, head of school, principal</td></tr>
 <tr><td>shipmaster, shipmistress</td><td>shipmaker, ship leader, captain, commander</td></tr>
@@ -257,7 +257,7 @@ Phrases with "man" can change to use "one" or "person".
 ## Weddings
 
 <table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
 <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
 <tr><td>wife, husband</td><td>spouse, consort</td></tr>
 <tr><td>fiancée, fiancé</td><td>nearlywed, fiancé (one é), spouse-to-be</td></tr>
@@ -292,13 +292,13 @@ Words that sound prescriptive can change to words that are individualistic.
 
 ## References
 
-* United Nations - Gender-inclusive language - 
-[Arabic](https://www.un.org/ar/gender-inclusive-language/),
-[Chinese](https://www.un.org/zh/gender-inclusive-language/),
-[English](https://www.un.org/en/gender-inclusive-language/),
-[French](https://www.un.org/fr/gender-inclusive-language/),
-[Spanish](https://www.un.org/es/gender-inclusive-language/),
-[Russian](https://www.un.org/ru/gender-inclusive-language/)
+* United Nations - Gender-free language - 
+[Arabic](https://www.un.org/ar/Gender-free-language/),
+[Chinese](https://www.un.org/zh/Gender-free-language/),
+[English](https://www.un.org/en/Gender-free-language/),
+[French](https://www.un.org/fr/Gender-free-language/),
+[Spanish](https://www.un.org/es/Gender-free-language/),
+[Russian](https://www.un.org/ru/Gender-free-language/)
 
 * [Writing Help Central: Gender-Neutral Equivalent Words](http://www.writinghelp-central.com/gender-neutral.html)
 
