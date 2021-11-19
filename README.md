@@ -19,6 +19,18 @@ We welcome contributions in other languages.
 </table>
 
 
+### Greetings
+
+<table class="words">
+<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
+<tr><td>ladies &amp; gentlemen</td><td>everyone, guests, attendees, etc.</td></tr>
+<tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
+<tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
+<tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
+<tr><td>Mr., Ms., Mrs., Miss</td><td>Mx.</td></tr>
+</table>
+
+
 ### Relationships
 
 <table class="words">
@@ -27,6 +39,7 @@ We welcome contributions in other languages.
 <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
 <tr><td>daughter, son</td><td>child</td></tr>
 <tr><td>sister, brother</td><td>sibling</td></tr>
+<tr><td>girl, boy</td><td>child</td></tr>
 <tr><td>niece, nephew</td><td>nibling</td></tr>
 <tr><td>aunt, uncle</td><td>auncle</td></tr>
 <tr><td>wife, husband</td><td>spouse, consort</td></tr>
@@ -35,23 +48,12 @@ We welcome contributions in other languages.
 </table>
 
 
-### Greetings
-
-<table class="words">
-<tr><td><b>Gendered</b></td><td><b>Gender-inclusive</b></td></tr>
-<tr><td>ladies &amp; gentlemen</td><td>everyone, guests, attendees, etc.</td></tr>
-<tr><td>men &amp; women</td><td>everyone, teammates, adults, colleagues, etc.</td></tr>
-<tr><td>boys &amp; girls</td><td>everyone, teammates, children, students, etc.</td></tr>
-<tr><td>sir/madam (as in "Dear Sir/Madam")</td><td>reader, manager, member, participant, etc.</td></tr>
-<tr><td>Mr., Ms., Mrs., Miss</td><td>Mx.</td></tr>
-</table>
-
-
 ### Nouns &amp; verbs
+
+Words that use "man" or "woman" can change to use "person", "adult", "one", or alternatives.
 
 <table class="words">
 <tr><td><b>Gendered language</b></td><td><b>Gender-inclusive lanuage</b></td></tr>
-<tr><td>actor, actress</td><td>actor</td></tr>
 <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
 <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
 <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
@@ -105,48 +107,71 @@ We welcome contributions in other languages.
 <tr><td>meter-maid, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
 <tr><td>middleman, middlewoman</td><td>intermediary, go-between</td></tr>
 <tr><td>newsman, newswoman</td><td>newsperson, reporter, correspondent</td></tr>
-<tr><td>no-man's land</td><td>neutral land, no-go zone, uninhabited area</td></tr>
 <tr><td>ombudsman, ombudswoman</td><td>ombudsperson, investigator, appointee</td></tr>
 <tr><td>outdoorsman, outdoorswoman</td><td>outdoors person</td></tr>
 <tr><td>paperboy, papergirl</td><td>paperperson, paper carrier, paper deliverer</td></tr>
 <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
-<tr><td>patron, patroness</td><td>patron, funder, supporter</td></tr>
 <tr><td>playboy, playgirl</td><td>partier, carouser, pleasure seeker</td></tr>
 <tr><td>policeman, policewoman</td><td>police officer</td></tr>
 <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
 <tr><td>pressman, presswoman</td><td>press operator</td></tr>
-<tr><td>priest, priestess</td><td>priest</td></tr>
 <tr><td>prodigal son, prodigal daughter</td><td>prodigal child, returning child</td></tr>
 <tr><td>repairman, repairwoman</td><td>repairperson, maintenance person, technician</td></tr>
-<tr><td>sculptor, sculptress</td><td>sculptor</td></tr>
 <tr><td>schoolboy, schoolgirl</td><td>schoolchild, student</td></tr>
-<tr><td>shepherd, shepherdess</td><td>shepherd</td></tr>
 <tr><td>snowman, snowwoman</td><td>snowperson</td></tr>
-<tr><td>sorcerer, sorceress</td><td>sorcerer, enchanter</td></tr>
 <tr><td>spokesman, spokeswoman</td><td>spokesperson, speaker, representative</td></tr>
-<tr><td>sportsmansihp, sportswomanship</td><td>sportspersonship, sporting, sporty</td></tr>
+<tr><td>sportsmanlike, sportswomanlike</td><td>sportspersonlike, sportlike, sporting, sporty</td></tr>
+<tr><td>sportsmanship, sportswomanship</td><td>sportspersonship, sportship, sporting, sporty</td></tr>
 <tr><td>statesman, stateswoman</td><td>statesperson, political leader, policy maker, diplomat</td></tr>
-<tr><td>steward, stewardess</td><td>steward, flight attendant</td></tr>
-<tr><td>tempter, temptress</td><td>tempter, enticer</td></tr>
 <tr><td>toastmaster, toastmistress</td><td>toastmaker, toast leader, toaster</td></tr>
-<tr><td>usher, usherette</td><td>usher, helper</td></tr>
-<tr><td>waiter, waitress</td><td>waiter, server</td></tr>
 <tr><td>watchman, watchwoman</td><td>watchperson, guard, attendant, security officer</td></tr>
 <tr><td>weatherman, weatherwoman</td><td>weatherperson, weathercaster, weather forecaster, weather reporter</td></tr>
-<tr><td>to a man</td><td>to a person</td></tr>
+</table>
+
+
+### Roles that end with -ess
+
+Roles that end with feminine suffix "-ess" can change to omit the end.
+
+<table class="words">
+<tr><td>actor, actress</td><td>actor, performer</td></tr>
+<tr><td>patron, patroness</td><td>patron, funder</td></tr>
+<tr><td>priest, priestess</td><td>priest, clergy</td></tr>
+<tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
+<tr><td>sorcerer, sorceress</td><td>sorcerer, enchanter</td></tr>
+<tr><td>shepherd, shepherdess</td><td>shepherd, herder</td></tr>
+<tr><td>steward, stewardess</td><td>steward, attendant</td></tr>
+<tr><td>tempter, temptress</td><td>tempter, enticer</td></tr>
+<tr><td>usher, usherette</td><td>usher, assistant</td></tr>
+<tr><td>waiter, waitress</td><td>waiter, server</td></tr>
+</table>
+
+
+### Phrases
+
+Phrases with "man" can change to use "one" or "person".
+
+<table class="words">
+<tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area</td></tr>
+<tr><td>no man is an island</td><td>no one is an island</td></tr>
 <tr><td>the common man</td><td>the common person, the average person</td></tr>
 <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
+<tr><td>the right man for the job</td><td>the right one for the job</td></tr>
+<tr><td>to a man</td><td>to a one</td></tr>
+<tr><td>to the last man</td><td>to the last one</td></tr>
 </table>
 
 
 ### Trans-related
+
+Words that sound prescriptive can change to words that are individualistic.
 
 <table class="words">
 <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
 <tr><td>preferred pronouns</td><td>personal pronouns</td></tr>
 <tr><td>transsexual</td><td>trans person or transgender person</td></tr>
 <tr><td>sex change, sex reassignment</td><td>gender affirmation, transition care, change of gender marker</td></tr>
-<tr><td>bilogical man/woman</td><td>cisgender person or non-transgender person</td></tr>
+<tr><td>biological man/woman</td><td>cisgender person or non-transgender person</td></tr>
 <tr><td>feminine/female pronouns</td><td>she/her pronouns</td></tr>
 <tr><td>masculine/male pronouns</td><td>he/him pronouns</td></tr>
 <tr><td>hermaphrodite</td><td>intersex</td></tr>
