@@ -330,11 +330,11 @@ Words that sound prescriptive can change to words that are individualistic.
     <tr><td>preferred pronouns</td><td>personal pronouns</td></tr>
     <tr><td>transsexual</td><td>trans person, transgender person</td></tr>
     <tr><td>sex change, sex reassignment</td><td>gender affirmation, transition care, change of gender marker</td></tr>
-    <tr><td>biological man/woman</td><td>cisgender person or non-transgender person</td></tr>
-    <tr><td>feminine/female pronouns</td><td>she/her pronouns</td></tr>
-    <tr><td>masculine/male pronouns</td><td>he/him pronouns</td></tr>
+    <tr><td>biological man, biological woman</td><td>cisgender person or non-transgender person</td></tr>
+    <tr><td>feminine pronouns, female pronouns</td><td>she/her pronouns</td></tr>
+    <tr><td>masculine pronouns, male pronouns</td><td>he/him pronouns</td></tr>
     <tr><td>hermaphrodite</td><td>intersex</td></tr>
-    <tr><td>lifestyle or preference</td><td>orientation or identity</td></tr>
+    <tr><td>lifestyle, preference</td><td>orientation, identity</td></tr>
   </tbody>
 </table>
 
