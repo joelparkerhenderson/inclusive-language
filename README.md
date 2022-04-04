@@ -31,7 +31,7 @@ We welcome contributions in other languages.
 
 <table class="words">
   <thead>
-    <tr><td><b>Gendered pronoun</b></td><td><b>Gender-free singular pronoun</b></td></tr>
+    <tr><td><b>Gender-exclusive pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
   </thead>
   <tbody>
     <tr><td>he, she</td><td>they</td></tr>
@@ -45,7 +45,7 @@ We welcome contributions in other languages.
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>boy, girl</td><td>person, individual, child</td></tr>
@@ -61,7 +61,7 @@ We welcome contributions in other languages.
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>ladies &amp; gentlemen</td><td>everyone, welcome guests, honored attendees, etc.</td></tr>
@@ -77,7 +77,7 @@ We welcome contributions in other languages.
 
 <table class="words">
   <thead>
-    <tr><td><b>Gendered noun</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>mother, father</td><td>parent</td></tr>
@@ -96,7 +96,7 @@ We welcome contributions in other languages.
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
@@ -122,7 +122,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
@@ -198,7 +198,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>bagboy, baggirl</td><td>bagperson, bagger, assistant, caddy</td></tr>
@@ -226,7 +226,7 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>actor, actress</td><td>actor, performer</td></tr>
@@ -254,7 +254,7 @@ Roles that end with gendered suffix "-master" or "-mistress" can change to end w
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>brewmaster, brewmistress</td><td>brewmaker, brew leader, brewer</td></tr>
@@ -272,7 +272,7 @@ Phrases with "man" can change to use "one" or "person".
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>forefathers, foremothers</td><td>foreparents, forebearers, ancestors</td></tr>
@@ -303,7 +303,7 @@ Phrases with "man" can change to use "one" or "person".
 
 <table class="words">
   <thead>
-    <tr><td><b>Gender-forced</b></td><td><b>Gender-free</b></td></tr>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
     <tr><td>girlfriend, boyfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
