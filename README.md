@@ -1,8 +1,12 @@
 # Gender inclusive language
 
-This is a list of gender inclusive language that we use with some of our projects.
+<blockquote>
+"Using gender-inclusive language means speaking and writing in a way that does not discriminate against a particular sex, social gender or gender identity, and does not perpetuate gender stereotypes. Given the key role of language in shaping cultural and social attitudes, using gender-inclusive language is a powerful way to promote gender equality and eradicate gender bias." - The United Nations
+</blockquote>
 
-This list is organic, adaptable to local context, social context, priorities, cultural sensitivities, etc.
+This is a list of gender inclusive language that we use with some of our projects, including ones with government agencies, multi-national organizations, and nonprofits that work with the UN and its affiliates. This is aimed at supporting the United Nations goal of creating working environments that embrace equality, eradicate bias, and include all staff.
+
+This list is organic and adaptable to local context, social context, priorities, cultural sensitivities, etc. When you use this list, be sure to consider how the words can be helpful, if they are good for your purposes, and are likely to favor equality.
 
 We welcome constructive feedback.
 
@@ -341,13 +345,13 @@ Words that sound prescriptive can change to words that are individualistic.
 
 ## References
 
-* United Nations - Gender-free language - 
-[Arabic](https://www.un.org/ar/Gender-free-language/),
-[Chinese](https://www.un.org/zh/Gender-free-language/),
-[English](https://www.un.org/en/Gender-free-language/),
-[French](https://www.un.org/fr/Gender-free-language/),
-[Spanish](https://www.un.org/es/Gender-free-language/),
-[Russian](https://www.un.org/ru/Gender-free-language/)
+* United Nations - gender-inclusive language - 
+[Arabic](https://www.un.org/ar/gender-inclusive-language/),
+[Chinese](https://www.un.org/zh/gender-inclusive-language/),
+[English](https://www.un.org/en/gender-inclusive-language/),
+[French](https://www.un.org/fr/gender-inclusive-language/),
+[Spanish](https://www.un.org/es/gender-inclusive-language/),
+[Russian](https://www.un.org/ru/gender-inclusive-language/)
 
 * [Writing Help Central: Gender-Neutral Equivalent Words](http://www.writinghelp-central.com/gender-neutral.html)
 
