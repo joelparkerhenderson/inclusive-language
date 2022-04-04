@@ -4,7 +4,7 @@
 "Using gender-inclusive language means speaking and writing in a way that does not discriminate against a particular sex, social gender or gender identity, and does not perpetuate gender stereotypes. Given the key role of language in shaping cultural and social attitudes, using gender-inclusive language is a powerful way to promote gender equality and eradicate gender bias." - The United Nations
 </blockquote>
 
-This is a list of gender inclusive language that we use with some of our projects, including ones with government agencies, multi-national organizations, and nonprofits that work with the UN and its affiliates. This is aimed at supporting the United Nations goal of creating working environments that embrace equality, eradicate bias, and include all staff.
+This is a list of gender inclusive language that we use with some of our projects, including ones with government agencies, multi-national organizations, and nonprofits that work with the UN and its affiliates. This is aimed at supporting the United Nations goal of creating working environments that embrace equality.
 
 This list is organic and adaptable to local context, social context, priorities, cultural sensitivities, etc. When you use this list, be sure to consider how the words can be helpful, if they are good for your purposes, and are likely to favor equality.
 
