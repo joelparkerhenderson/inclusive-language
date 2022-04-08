@@ -108,8 +108,8 @@ We welcome contributions in other languages.
   </thead>
   <tbody>
     <tr><td>ladies &amp; gentlemen</td><td>everyone, welcome guests, honored attendees, etc.</td></tr>
-    <tr><td>men &amp; women</td><td>everyone, audience, adults, colleagues, teammates, etc.</td></tr>
-    <tr><td>boys &amp; girls</td><td>everyone, audience, children, students, classmates, etc.</td></tr>
+    <tr><td>men &amp; women</td><td>everyone, attendees, adults, colleagues, teammates, etc.</td></tr>
+    <tr><td>boys &amp; girls</td><td>everyone, attendees, children, students, classmates, etc.</td></tr>
     <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
     <tr><td>Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
   </tbody>
