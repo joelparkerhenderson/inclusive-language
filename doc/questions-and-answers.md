@@ -1,5 +1,27 @@
 # Questions and Answers
 
+<blockquote>
+"Using gender-inclusive language means speaking and writing in a way that does not discriminate against a particular sex, social gender or gender identity, and does not perpetuate gender stereotypes. Given the key role of language in shaping cultural and social attitudes, using gender-inclusive language is a powerful way to promote gender equality and eradicate gender bias." - The United Nations
+</blockquote>
+
+
+## What are good introductions to inclusive language and psychological safety?
+
+* Introductory information by The United Nations in
+[Arabic](https://www.un.org/ar/gender-inclusive-language/),
+[Chinese](https://www.un.org/zh/gender-inclusive-language/),
+[English](https://www.un.org/en/gender-inclusive-language/),
+[French](https://www.un.org/fr/gender-inclusive-language/),
+[Spanish](https://www.un.org/es/gender-inclusive-language/),
+[Russian](https://www.un.org/ru/gender-inclusive-language/)
+
+* Introductory information about psychological safety for teamwork by
+[Harvard](https://www.jstor.org/stable/2666999),
+[Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
+[McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
+[Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/).
+
+
 
 ## Why does inclusive language matter?
 
