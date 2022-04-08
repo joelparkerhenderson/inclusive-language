@@ -191,3 +191,27 @@ It turns out that inclusive-langauge researchers and advocates do see these kind
 * The specifics can vary by language and by culture, because of grammar rules, phrasing choices, translation intent, cultural sensitivities, workplace regulations, and more.
 
 * Internationalization and multiculturalism are complex areas, and benefit from high-trust communication and high-trust collaboration.
+
+
+## Is this a declaration from high up?
+
+<b>Comment: “I have never seen a request to rename something because a majority of black/trans/female people considered the term offensive. The way it works is that a person or institution high up declares a term offensive."</b>
+
+<b>Answer: What I've experienced is the opposite-- the changes are happening because of grassroots advocacy, as well as junior people speaking up.</b>
+
+On one team, it was a Black junior software developer who took me aside, privately, and raised their concerns that "white-list/black-list" was frustrating to them because it focused on “white” as good and “black” as bad. 
+
+* We looked for solutions together and opened discussion among our teammates. 
+
+* 100% of the Black developers wanted the change. So did most everyone else. 
+
+* A few people didn’t want the change because it would add some work, and wasn’t the longtime convention in our security documentation.
+
+The team decided to change to the inclusive language "accept-list/reject-list". 
+
+* We made the change on our own work, made it successful, then shared our recommendations up the chain of command. 
+
+* When junior people speak up and advocate for change, then they can achieve a tipping point which can make a team more-successful and more-progressive. These kinds of changes can then go upward in the organization.
+
+* I've experienced this kind of upward change firsthand, many times, with multiple companies, in multiple countries, and relating to multiple areas of gender, race, culture, orientation, marital status, addiction issues, family planning reasons, and more.
+
