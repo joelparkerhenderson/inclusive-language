@@ -381,3 +381,42 @@ There are many other kinds of inclusive language, and in our line of work, some 
 * [Merriam-Webster: Words at Play: Mx. gender neutral title](https://www.merriam-webster.com/words-at-play/mx-gender-neutral-title)
 
 * [Merriam-Webster: Words at Play: Singular non-binary they](https://www.merriam-webster.com/words-at-play/singular-nonbinary-they)
+
+* Introductions about inclusive language in technology by
+[ASWF](https://www.aswf.io/blog/inclusive-language/),
+[Buffer](https://buffer.com/resources/inclusive-language-tech/),
+[Detroit Labs](https://www.detroitlabs.com/blog/2020/06/11/inclusive-language-in-technology/),
+[Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/why-inclusive-language-matters-in-tech/?sh=7e99b84e6017),
+[IBM](https://www.ibm.com/blogs/think/2020/08/words-matter-driving-thoughtful-change-toward-inclusive-language-in-technology/),
+[Northwestern](https://www.it.northwestern.edu/about/it-projects/dei/glossary.html).
+
+* Introductions about gender bias issues at 
+[Amazon](https://www.bloomberg.com/news/articles/2021-03-01/amazon-is-sued-for-alleged-racial-and-gender-discrimination),
+[Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),
+[GitHub](https://medium.com/gender-equality-in-tech/the-truth-about-githubs-gender-bias-b92a1d6310d3),
+[Twitter](https://www.dailydot.com/debug/bechdel-test-twitter/),
+[Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/),
+[Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
+
+* Introductions about 
+[psychological safety](https://wikipedia.org/wiki/Psychological_safety) 
+[group dynamics](https://wikipedia.org/wiki/Group_dynamics) by
+[Harvard](https://www.jstor.org/stable/2666999),
+[Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
+[McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
+[Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/).
+
+* [Inclusive Naming Initiative](https://inclusivenaming.org/) involving 
+[Cisco](https://cisco.com), 
+[Intel](https://intel.com), 
+[RedHat](https://redhat.com), 
+[Extreme Networks](https://www.extremenetworks.com/), 
+[Canonical](https://canoncial.com).
+
+* [Brand Naming Changes](https://blog.cheapism.com/companies-forced-to-rebrand/) involving
+[Disney](https://disney.com),
+[Lego](https://lego.com),
+[Nestlé](https://nestle.com),
+[Mars](https://mars.com),
+[PepsiCo](https://pepsico.com),
+[Unilever](https://unilever.com).
