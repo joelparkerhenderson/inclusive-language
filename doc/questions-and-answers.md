@@ -60,17 +60,17 @@ One of my teams presented our client with our technology plan to use Martin Fowl
 
 * The client’s project manager took me aside privately.
 
-* She told me that the “Strangler” language had caused problems with two of the women executives.
+* She told me that the “Strangler” language had upset two of the women executives.
 
 * The women were having flashbacks to when they were assaulted and literally strangled.
 
 We asked:
 
-* Does it matter to the people that the name “Strangler” is based on a plant? No.
+* Does it matter to these people that the name “Strangler” is based on a plant? No.
 
-* Does it matter to the people that “Strangler” is a technology term? No.
+* Does it matter to these people that “Strangler” is a technology term? No.
 
-* Does it matter to the people that teamwork is impeded? Yes.
+* Does it matter to the client that teammates are upset? Yes.
 
 We learned:
 
