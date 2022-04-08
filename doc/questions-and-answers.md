@@ -83,15 +83,15 @@ We discovered:
 
 We interviewed our stakeholders:
 
-* Most end-users tended to say “I’m her mother”, and that was fine with our stakeholders because it’s the user’s own language. This held true even if the person wasn’t the biological mother or legal mother. Flexibility matters.
+* Most end-users tended to say things like “I’m her mother”, and that was fine with our stakeholders because it’s the users' own language. This held true even if the person wasn’t the biological mother or legal mother. Flexibility matters.
 
 * Most sector-experts tended to say “parent/guardian”, and that was fine with our stakeholders because it aligned with the wider context, including regulations. Interoperability matters.
 
 We determined:
 
-* The words “mother/father” weren't actually needed in the application.
+* The words “mother/father” weren't actually needed in the application by anyone.
 
-* The words “parent/guardian” were must-have in the application because of regulations.
+* The words “parent/guardian” were actually needed in the application because of regulations.
 
 * We estimated that doing it both ways would likely cost us hundreds of extra hours, and confuse stakeholders, and lead to technical mismatches for integrations, and lead to domain driven design confusion for regulations.
 
