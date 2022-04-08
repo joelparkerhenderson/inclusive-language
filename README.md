@@ -176,7 +176,9 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 
 ## Roles with -ess -enne -ette
 
-Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
+Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end. 
+
+Be aware that in some contexts, some meanings may differ; for example, in some cultures or religions a "priest" role can have differences as compared to a "priestess" role.
 
 <table class="words">
   <thead>
@@ -205,6 +207,8 @@ Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to o
 ## Roles with -master or -mistress
 
 Roles that end with gendered suffix "-master" or "-mistress" can change to end with "-maker" or "-leader" or "-er" or to alternatives.
+
+Be aware that in some contexts, some meanings may differ; for example, in some cultures a "shipmaster" role can have differences compared to a "shipmistess" role.
 
 <table class="words">
   <thead>
