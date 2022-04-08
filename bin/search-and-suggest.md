@@ -16,11 +16,11 @@ Each search group has:
 
     * a short list of desired replacements, such as "businessperson", "professional", "executive".
 
-The purpose of the input corpus is to enable anyone, anywhere, to create their own preferred words, scores, and replacements. 
+The purpose of the input corpus is to enable anyone, anywhere, to create their own preferred words, scores, and replacements.
 
-  * This kind of neutrality and flexibility are mission-critical for success across many organizations, languages, and priorities. 
+  * This kind of neutrality and flexibility are mission-critical for success across many organizations, languages, and priorities.
 
-The tool calculates a document's attention-needed score by summing the discovered words' scores. 
+The tool calculates a document's attention-needed score by summing the discovered words' scores.
 
   * For example, suppose the world "chairman" has a probability of 0.8, representing that we are mostly confident the word needs attention, yet could be an official title that we don't want to change, such as "Chairman of the Board". A document that contains 5 instances of "chairman" would score 5 * 0.8 = 4.0.
 

@@ -15,7 +15,7 @@ We welcome contributions in other languages.
 
 ## Introductions
 
-* United Nations - gender-inclusive language - 
+* United Nations - gender-inclusive language -
 [Arabic](https://www.un.org/ar/gender-inclusive-language/),
 [Chinese](https://www.un.org/zh/gender-inclusive-language/),
 [English](https://www.un.org/en/gender-inclusive-language/),
@@ -39,18 +39,18 @@ We welcome contributions in other languages.
 [Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/),
 [Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
-* Psychological safety: 
+* Psychological safety:
 [Harvard](https://www.jstor.org/stable/2666999),
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
 [McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
 [Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/),
 [Wikipedia](https://wikipedia.org/wiki/Psychological_safety).
 
-* [Inclusive Naming Initiative](https://inclusivenaming.org/) involving 
-[Cisco](https://cisco.com), 
-[Intel](https://intel.com), 
-[RedHat](https://redhat.com), 
-[Extreme Networks](https://www.extremenetworks.com/), 
+* [Inclusive Naming Initiative](https://inclusivenaming.org/) involving
+[Cisco](https://cisco.com),
+[Intel](https://intel.com),
+[RedHat](https://redhat.com),
+[Extreme Networks](https://www.extremenetworks.com/),
 [Canonical](https://canoncial.com).
 
 * [Brand Naming Changes](https://blog.cheapism.com/companies-forced-to-rebrand/) involving
@@ -176,7 +176,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
 
 ## Roles with -ess -enne -ette
 
-Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end. 
+Roles that end with feminine suffix "-ess" or "-enne" or "-ette" can change to omit the end.
 
 Be aware that in some contexts, some meanings may differ; for example, in some cultures or religions a "priest" role can have differences as compared to a "priestess" role.
 
@@ -190,7 +190,7 @@ Be aware that in some contexts, some meanings may differ; for example, in some c
     <tr><td>conductor, conductress</td><td>conductor, coordinator</td></tr>
     <tr><td>host, hostess</td><td>host, welcomer</td></tr>
     <tr><td>major, majorette</td><td>major, dancer</td></tr>
-    <tr><td>masseur, masseuse</td><td>masseur, massage therapist</td></tr>  
+    <tr><td>masseur, masseuse</td><td>masseur, massage therapist</td></tr>
     <tr><td>patron, patroness</td><td>patron, funder</td></tr>
     <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
     <tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
@@ -245,7 +245,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>man of distinction, woman of distinction</td><td>person of distinction, notable person</td></tr>
     <tr><td>man of letters, woman of letters</td><td>person of letters, academic, scholar</td></tr>
     <tr><td>man of the hour, woman of the hour</td><td>person of the hour, newsmaker of the hour</td></tr>
-    <tr><td>man to man, woman to woman</td><td>person to person, face to face, head to head</td></tr>  
+    <tr><td>man to man, woman to woman</td><td>person to person, face to face, head to head</td></tr>
     <tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area</td></tr>
     <tr><td>no man is an island</td><td>no one is an island</td></tr>
     <tr><td>the common man</td><td>the common person, the average person</td></tr>

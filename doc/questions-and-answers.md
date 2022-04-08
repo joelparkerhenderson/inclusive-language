@@ -7,16 +7,16 @@
 
 ## What are introductions to inclusive language, gender bias, and psychological safety?
 
-* Introductions about 
-[inclusive language](https://wikipedia.org/wiki/Inclusive_language) by 
+* Introductions about
+[inclusive language](https://wikipedia.org/wiki/Inclusive_language) by
 [Buffer](https://buffer.com/resources/inclusive-language-tech/),
 [Detroit Labs](https://www.detroitlabs.com/blog/2020/06/11/inclusive-language-in-technology/),
 [Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/why-inclusive-language-matters-in-tech/?sh=7e99b84e6017),
 [IBM](https://www.ibm.com/blogs/think/2020/08/words-matter-driving-thoughtful-change-toward-inclusive-language-in-technology/),
 [Northwestern](https://www.it.northwestern.edu/about/it-projects/dei/glossary.html).
 
-* Introductions about 
-[gender bias](https://wikipedia.org/wiki/Gender_bias) at 
+* Introductions about
+[gender bias](https://wikipedia.org/wiki/Gender_bias) at
 [Amazon](https://www.bloomberg.com/news/articles/2021-03-01/amazon-is-sued-for-alleged-racial-and-gender-discrimination),
 [Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),
 [GitHub](https://medium.com/gender-equality-in-tech/the-truth-about-githubs-gender-bias-b92a1d6310d3),
@@ -24,7 +24,7 @@
 [Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/),
 [Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
-* Introductions about 
+* Introductions about
 [psychological safety](https://wikipedia.org/wiki/Psychological_safety) by
 [Harvard](https://www.jstor.org/stable/2666999),
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
@@ -38,7 +38,7 @@
 
 <b>Answer: Because inclusive language is better for teamwork.</b>
 
-One of my teams presented our client with our technology plan to use Martin Fowler's "Strangler" pattern. 
+One of my teams presented our client with our technology plan to use Martin Fowler's "Strangler" pattern.
 
 * The client’s project manager took me aside privately.
 
@@ -85,7 +85,7 @@ We interviewed our stakeholders:
 
 * Most end-users tended to say “I’m her mother”, and that was fine with our stakeholders because it’s the user’s own language. This held true even if the person wasn’t the biological mother or legal mother. Flexibility matters.
 
-* Most sector-experts tended to say “parent/guardian”, and that was fine with our stakeholders because it aligned with the wider context, including regulations. Interoperability matters. 
+* Most sector-experts tended to say “parent/guardian”, and that was fine with our stakeholders because it aligned with the wider context, including regulations. Interoperability matters.
 
 We determined:
 
@@ -112,11 +112,11 @@ We learned:
 
 Most git repository creators don't have a reason to do anything other than the default branch name. So it's great when git, GitHub, GitLab, and others can all make the default more helpful by changing from "master" to "main".
 
-* More new repositories will do this by default, and more old repositories will replace “master” with “main”. 
+* More new repositories will do this by default, and more old repositories will replace “master” with “main”.
 
 * A reason you may want to change your own git repositories, now or later, is because you prefer to use the same default branch name as other git projects, or want to use the same default as the git program itself.
 
-* A reason for you to change is to make it easier for newcomers to use their own default tools and understandings with your repositories. New git tools expect a “main” branch by default, and newcomers to your code will look first for a “main” branch. 
+* A reason for you to change is to make it easier for newcomers to use their own default tools and understandings with your repositories. New git tools expect a “main” branch by default, and newcomers to your code will look first for a “main” branch.
 
 Transitioning from “master/slave” to “main/replica” helps with a frustrating problem that some technical professionals have when they are with non-technical colleagues.
 
@@ -137,7 +137,7 @@ Free speech in its broadest sense says yes, a developer should be allowed to use
 
 However, many kinds of users will choose to ban/block/veto packages with names that could cause harm.
 
-For example, one of my teams evaluated a package with the name "Upskirt”. 
+For example, one of my teams evaluated a package with the name "Upskirt”.
 
 * Our client company pointed us to current news about criminals snapping “upskirt” photos of women by using surreptitious cameras and harassing interactions.
 
@@ -162,7 +162,7 @@ Risk management practitioners ban package names like these because there’s no 
 
 It turns out that inclusive-langauge researchers and advocates do see these kinds of emotional charges among many cultures and many languages, not just one culture and not just one language.
 
-* The United Nations is working on gender-inclusive language across all six official UN languages: Arabic, Chinese, English, French, Spanish, Russian. 
+* The United Nations is working on gender-inclusive language across all six official UN languages: Arabic, Chinese, English, French, Spanish, Russian.
 
 * The specifics can vary by language and by culture, because of grammar rules, phrasing choices, translation intent, cultural sensitivities, workplace regulations, and more.
 
@@ -175,19 +175,18 @@ It turns out that inclusive-langauge researchers and advocates do see these kind
 
 <b>Answer: What I've experienced is the opposite, where change happens because of junior people speaking up.</b>
 
-On one team, it was a Black junior software developer who took me aside, privately, and raised their concerns that "white-list/black-list" was frustrating to them because it focused on “white” as good and “black” as bad. 
+On one team, it was a Black junior software developer who took me aside, privately, and raised their concerns that "white-list/black-list" was frustrating to them because it focused on “white” as good and “black” as bad.
 
-* We looked for solutions together and opened discussion among our teammates. 
+* We looked for solutions together and opened discussion among our teammates.
 
-* 100% of the Black developers wanted the change. So did most everyone else. 
+* 100% of the Black developers wanted the change. So did most everyone else.
 
 * A few people didn’t want the change because it would add some work, and wasn’t the longtime convention in our security documentation.
 
-The team decided to change to the inclusive language "accept-list/reject-list". 
+The team decided to change to the inclusive language "accept-list/reject-list".
 
-* We made the change on our own work, made it successful, then shared our recommendations up the chain of command. 
+* We made the change on our own work, made it successful, then shared our recommendations up the chain of command.
 
 * When junior people speak up and advocate for change, then they can achieve a tipping point which can make a team more-successful and more-progressive. These kinds of changes can then go upward in the organization.
 
 * I've experienced this kind of upward change firsthand, many times, with multiple companies, in multiple countries, and relating to multiple areas of gender, race, culture, orientation, marital status, addiction issues, family planning reasons, and more.
-
