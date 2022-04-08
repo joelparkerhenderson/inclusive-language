@@ -182,7 +182,7 @@ Risk management practitioners ban package names like these because there’s no 
 
 <b>Comment: “The emotional charge is pretty specific to a single culture, while English is used by a large part of the world as a second language. It's ok to try to right the wrongs you are guilty of, but please stop trying to project that guilt to other cultures.”</b>
 
-<b>Answer: Inclusive language is multicultural.</b>
+<b>Answer: Inclusive language is multicultural and multilingual.</b>
 
 It turns out that inclusive-langauge researchers and advocates do see these kinds of emotional charges among many cultures and many languages, not just one culture and not just one language.
 
