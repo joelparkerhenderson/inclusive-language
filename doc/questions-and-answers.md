@@ -8,7 +8,7 @@
 ## What are introductions to inclusive language, gender bias, and psychological safety?
 
 * Introductions about 
-[inclusive language](https://www.aswf.io/blog/inclusive-language/) by 
+[inclusive language](https://wikipedia.org/wiki/Inclusive_language) by 
 [Buffer](https://buffer.com/resources/inclusive-language-tech/),
 [Detroit Labs](https://www.detroitlabs.com/blog/2020/06/11/inclusive-language-in-technology/),
 [Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/why-inclusive-language-matters-in-tech/?sh=7e99b84e6017),
@@ -16,7 +16,7 @@
 [Northwestern](https://www.it.northwestern.edu/about/it-projects/dei/glossary.html).
 
 * Introductions about 
-[gender bias issues](https://wikipedia.org/wiki/Gender_bias) at 
+[gender bias](https://wikipedia.org/wiki/Gender_bias) at 
 [Amazon](https://www.bloomberg.com/news/articles/2021-03-01/amazon-is-sued-for-alleged-racial-and-gender-discrimination),
 [Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),
 [GitHub](https://medium.com/gender-equality-in-tech/the-truth-about-githubs-gender-bias-b92a1d6310d3),
@@ -25,8 +25,7 @@
 [Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
 * Introductions about 
-[psychological safety](https://wikipedia.org/wiki/Psychological_safety) 
-[group dynamics](https://wikipedia.org/wiki/Group_dynamics) by
+[psychological safety](https://wikipedia.org/wiki/Psychological_safety) by
 [Harvard](https://www.jstor.org/stable/2666999),
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
 [McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
