@@ -33,12 +33,21 @@
 [Unilever](https://unilever.com).
 
 * Introductions about 
-[psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) 
-[group dynamics](https://en.wikipedia.org/wiki/Group_dynamics) by
+[psychological safety](https://wikipedia.org/wiki/Psychological_safety) 
+[group dynamics](https://wikipedia.org/wiki/Group_dynamics) by
 [Harvard](https://www.jstor.org/stable/2666999),
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
 [McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
 [Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/).
+
+* Introductions about 
+[gender bias issues](https://wikipedia.org/wiki/Gender_bias) at 
+[Amazon](https://www.bloomberg.com/news/articles/2021-03-01/amazon-is-sued-for-alleged-racial-and-gender-discrimination),
+[Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),
+[GitHub](https://medium.com/gender-equality-in-tech/the-truth-about-githubs-gender-bias-b92a1d6310d3),
+[Twitter](https://www.dailydot.com/debug/bechdel-test-twitter/),
+[Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/).
+[Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
 
 ## Why does inclusive language matter?
