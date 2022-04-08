@@ -15,6 +15,9 @@
 [Spanish](https://www.un.org/es/gender-inclusive-language/),
 [Russian](https://www.un.org/ru/gender-inclusive-language/)
 
+* Introductory information about [inclusive naming](https://inclusivenaming.org/) sponsored by [Cisco](https://cisco.com), [Intel](https://intel.com), [RedHat](https://redhat.com), [Extreme Networks](https://www.extremenetworks.com/), 
+[Canonical](https://canoncial.com).
+
 * Introductory information about psychological safety for teamwork by
 [Harvard](https://www.jstor.org/stable/2666999),
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
@@ -118,9 +121,9 @@ Transitioning from “master/slave” to “main/replica” helps with a frustra
 * It makes special sense to use inclusive language for a default, because this practice tends to keep people out of trouble by default.
 
 
-## Should bad language be allowed?
+## Should offensive language be allowed?
 
-<b>Question: “If a developer’s package name uses a bad name, such as blasphemy, should that be allowed?”</b>
+<b>Question: “If a developer’s package name uses a name that offends people, such as blasphemy, should that be allowed?”</b>
 
 <b>Answer: Yes because of free speech, but be aware that inclusive language is a requirement for many kinds of users".</b>
 
