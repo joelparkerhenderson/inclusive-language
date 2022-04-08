@@ -70,95 +70,6 @@ We welcome contributions in other languages.
 * [Merriam-Webster: Words at Play: Singular non-binary they](https://www.merriam-webster.com/words-at-play/singular-nonbinary-they)
 
 
-## Pronouns
-
-<table class="words">
-  <thead>
-    <tr><td><b>Gender-exclusive pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>he, she</td><td>they</td></tr>
-    <tr><td>him, her</td><td>them</td></tr>
-    <tr><td>his, hers</td><td>theirs</td></tr>
-  <tbody>
-</table>
-
-
-## General
-
-<table class="words">
-  <thead>
-    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>boy, girl</td><td>person, individual, child</td></tr>
-    <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
-    <tr><td>man, woman</td><td>person, individual, adult</td></tr>
-    <tr><td>mankind, womankind</td><td>people, humans, humanity</td></tr>
-    <tr><td>husband, wife</td><td>spouse, consort</td></tr>
-  <tbody>
-</table>
-
-
-## Greetings
-
-<table class="words">
-  <thead>
-    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>ladies &amp; gentlemen</td><td>everyone, welcome guests, honored attendees, etc.</td></tr>
-    <tr><td>men &amp; women</td><td>everyone, attendees, adults, colleagues, teammates, etc.</td></tr>
-    <tr><td>boys &amp; girls</td><td>everyone, attendees, children, students, classmates, etc.</td></tr>
-    <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
-    <tr><td>Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
-  </tbody>
-</table>
-
-
-## Families
-
-<table class="words">
-  <thead>
-    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>mother, father</td><td>parent</td></tr>
-    <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
-    <tr><td>daughter, son</td><td>child</td></tr>
-    <tr><td>sister, brother</td><td>sibling</td></tr>
-    <tr><td>girl, boy</td><td>child, youth, youngster</td></tr>
-    <tr><td>niece, nephew</td><td>nibling</td></tr>
-    <tr><td>aunt, uncle</td><td>auncle</td></tr>
-    <tr><td>fraternal twins</td><td>differentiable twins, non-identical twins</td></tr>
-  </tbody>
-</table>
-
-
-## Miscellaneous
-
-<table class="words">
-  <thead>
-    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
-    <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
-    <tr><td>brethren</td><td>laity</td></tr>
-    <tr><td>brotherhood, sisterhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
-    <tr><td>brotherly, sisterly</td><td>siblingly, kindly, helpfully</td></tr>
-    <tr><td>brotherly love, sisterly love</td><td>siblingly love, charity, goodwill</td></tr>
-    <tr><td>coed</td><td>student</td></tr>
-    <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
-    <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
-    <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
-    <tr><td>manpower, womanpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
-    <tr><td>meter-maid, meter-matron, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
-    <tr><td>motherland, fatherland</td><td>homeland</td></tr>
-  </tbody>
-</table>
-
-
 ## Roles with -man or -woman
 
 Roles that end with gendered suffix "-man" or "-woman" can change to end with "person" or to an alternative.
@@ -341,6 +252,56 @@ Phrases with "man" can change to use "one" or "person".
   </tbody>
 </table>
 
+## General
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>boy, girl</td><td>person, individual, child</td></tr>
+    <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
+    <tr><td>man, woman</td><td>person, individual, adult</td></tr>
+    <tr><td>mankind, womankind</td><td>people, humans, humanity</td></tr>
+    <tr><td>husband, wife</td><td>spouse, consort</td></tr>
+  <tbody>
+</table>
+
+
+## Greetings
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>Dear Sir/Madam</td><td>Dear Reader, To Whom It May Concern, etc.</td></tr>
+    <tr><td>ladies &amp; gentlemen</td><td>everyone, esteemed guests, honored attendees</td></tr>
+    <tr><td>men &amp; women</td><td>everyone, attendees, guests, adults, colleagues, coworkers, etc.</td></tr>
+    <tr><td>boys &amp; girls</td><td>everyone, attendees, guests, children, students, classmates, etc.</td></tr>
+    <tr><td> Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
+  </tbody>
+</table>
+
+
+## Families
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>mother, father</td><td>parent</td></tr>
+    <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
+    <tr><td>daughter, son</td><td>child</td></tr>
+    <tr><td>sister, brother</td><td>sibling</td></tr>
+    <tr><td>girl, boy</td><td>child, youth, youngster</td></tr>
+    <tr><td>niece, nephew</td><td>nibling</td></tr>
+    <tr><td>aunt, uncle</td><td>auncle</td></tr>
+    <tr><td>fraternal twins</td><td>differentiable twins, non-identical twins</td></tr>
+  </tbody>
+</table>
+
 
 ## Weddings
 
@@ -365,7 +326,45 @@ Phrases with "man" can change to use "one" or "person".
 </table>
 
 
-## Trans-related
+## Miscellaneous
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>alumnus, alumna</td><td>alum, graduate</td></tr>
+    <tr><td>alumni, alumnae</td><td>alums, graduates</td></tr>
+    <tr><td>brethren</td><td>laity</td></tr>
+    <tr><td>brotherhood, sisterhood</td><td>siblinghood, fellowship, camaraderie</td></tr>
+    <tr><td>brotherly, sisterly</td><td>siblingly, kindly, helpfully</td></tr>
+    <tr><td>brotherly love, sisterly love</td><td>siblingly love, charity, goodwill</td></tr>
+    <tr><td>coed</td><td>student</td></tr>
+    <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
+    <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
+    <tr><td>manhole</td><td>utility hole, access hole, sewer hole, mainenance hole</td></tr>
+    <tr><td>manpower, womanpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
+    <tr><td>meter-maid, meter-matron, meter-man</td><td>meter-reader, parking enforcement officer</td></tr>
+    <tr><td>motherland, fatherland</td><td>homeland</td></tr>
+  </tbody>
+</table>
+
+
+## Pronoun-related
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive singular pronoun</b></td><td><b>Gender-inclusive singular pronoun</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>he, she, he/she</td><td>they</td></tr>
+    <tr><td>him, her, him/her</td><td>them</td></tr>
+    <tr><td>his, hers, his/hers</td><td>theirs</td></tr>
+  <tbody>
+</table>
+
+
+## Transgender-related
 
 Words that sound prescriptive can change to words that are individualistic.
 
