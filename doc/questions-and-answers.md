@@ -193,11 +193,11 @@ It turns out that inclusive-langauge researchers and advocates do see these kind
 * Internationalization and multiculturalism are complex areas, and benefit from high-trust communication and high-trust collaboration.
 
 
-## Is this a declaration from high up?
+## Is this a high up declaration?
 
 <b>Comment: “I have never seen a request to rename something because a majority of black/trans/female people considered the term offensive. The way it works is that a person or institution high up declares a term offensive."</b>
 
-<b>Answer: What I've experienced is the opposite-- the changes are happening because of grassroots advocacy, as well as junior people speaking up.</b>
+<b>Answer: What I've experienced is the opposite, where change happens because of junior people speaking up.</b>
 
 On one team, it was a Black junior software developer who took me aside, privately, and raised their concerns that "white-list/black-list" was frustrating to them because it focused on “white” as good and “black” as bad. 
 
