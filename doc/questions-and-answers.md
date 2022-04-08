@@ -153,7 +153,7 @@ Transitioning from “master/slave” to “main/replica” helps with a frustra
 
 ## Should offensive language be allowed?
 
-<b>Question: “If a developer’s package name uses a name that offends people, such as blasphemy, should that be allowed?”</b>
+<b>Question: “If a developer’s package name uses a name that offends people should that be allowed?”</b>
 
 <b>Answer: Yes because of free speech, but be aware that inclusive language is a requirement for many kinds of users".</b>
 
@@ -177,3 +177,17 @@ Risk management practitioners ban package names like these because there’s no 
 
 * Risk of an internal investigation that turns up such errors of judgement.
 
+
+## Is this specific to one culture or one language?
+
+<b>Comment: “The emotional charge is pretty specific to a single culture, while English is used by a large part of the world as a second language. It's ok to try to right the wrongs you are guilty of, but please stop trying to project that guilt to other cultures.”</b>
+
+<b>Answer: Inclusive language is multicultural.</b>
+
+It turns out that inclusive-langauge researchers and advocates do see these kinds of emotional charges among many cultures and many languages, not just one culture and not just one language.
+
+* The United Nations is working on gender-inclusive language across all six official UN languages: Arabic, Chinese, English, French, Spanish, Russian. 
+
+* The specifics can vary by language and by culture, because of grammar rules, phrasing choices, translation intent, cultural sensitivities, workplace regulations, and more.
+
+* Internationalization and multiculturalism are complex areas, and benefit from high-trust communication and high-trust collaboration.
