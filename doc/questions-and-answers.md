@@ -7,14 +7,6 @@
 
 ## What are introductions to inclusive language, gender bias, and psychological safety?
 
-* Introductions by The United Nations in
-[Arabic](https://www.un.org/ar/gender-inclusive-language/),
-[Chinese](https://www.un.org/zh/gender-inclusive-language/),
-[English](https://www.un.org/en/gender-inclusive-language/),
-[French](https://www.un.org/fr/gender-inclusive-language/),
-[Spanish](https://www.un.org/es/gender-inclusive-language/),
-[Russian](https://www.un.org/ru/gender-inclusive-language/)
-
 * Introductions about 
 [inclusive language](https://www.aswf.io/blog/inclusive-language/) by 
 [Buffer](https://buffer.com/resources/inclusive-language-tech/),
@@ -39,21 +31,6 @@
 [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/),
 [McKinsey](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development),
 [Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/).
-
-* [Inclusive Naming Initiative](https://inclusivenaming.org/) involving 
-[Cisco](https://cisco.com), 
-[Intel](https://intel.com), 
-[RedHat](https://redhat.com), 
-[Extreme Networks](https://www.extremenetworks.com/), 
-[Canonical](https://canoncial.com).
-
-* [Brand Naming Changes](https://blog.cheapism.com/companies-forced-to-rebrand/) involving
-[Disney](https://disney.com),
-[Lego](https://lego.com),
-[Nestlé](https://nestle.com),
-[Mars](https://mars.com),
-[PepsiCo](https://pepsico.com),
-[Unilever](https://unilever.com).
 
 
 ## Why does inclusive language matter?
