@@ -41,6 +41,14 @@
 [Microsoft](https://workplaceinsights.microsoft.com/productivity/high-performing-teams-need-psychological-safety-heres-how-to-create-it/).
 
 * Introductions about 
+[inclusive language in technology](https://www.aswf.io/blog/inclusive-language/) by 
+[Buffer](https://buffer.com/resources/inclusive-language-tech/),
+[Detroit Labs](https://www.detroitlabs.com/blog/2020/06/11/inclusive-language-in-technology/),
+[Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/why-inclusive-language-matters-in-tech/?sh=7e99b84e6017),
+[IBM](https://www.ibm.com/blogs/think/2020/08/words-matter-driving-thoughtful-change-toward-inclusive-language-in-technology/),
+[Northwestern](https://www.it.northwestern.edu/about/it-projects/dei/glossary.html).
+
+* Introductions about 
 [gender bias issues](https://wikipedia.org/wiki/Gender_bias) at 
 [Amazon](https://www.bloomberg.com/news/articles/2021-03-01/amazon-is-sued-for-alleged-racial-and-gender-discrimination),
 [Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),

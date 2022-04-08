@@ -343,6 +343,27 @@ Words that sound prescriptive can change to words that are individualistic.
 </table>
 
 
+## Inclusive language for technology
+
+There are many other kinds of inclusive language, and in our line of work, some that come up are about techology.
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>white-list/black-list (security)</td><td>accept/reject, include/exclude, allow/disallow</td></tr>
+    <tr><td>master/slave (synchronization)</td><td>original/replica, primary/secondary, source/destination</td></tr>
+    <tr><td>master branch (version control)</td><td>main branch, trunk branch, default branch</td></tr>
+    <tr><td>master table (database)</td><td>schema table</td></tr>
+    <tr><td>dummy value (configuration)</td><td>example value, placeholder value, sample value</tr>
+    <tr><td>native feature (user interface)</td><td> core feature, built-in feature</td></tr>
+    <tr><td>culture fit (human resources)</td><td>values fit</td>
+    <tr><td>housekeeping (project managment)</td><td>cleanup, maintenance, streamlining</td>
+  </tbody>
+</table>
+
+
 ## References
 
 * United Nations - gender-inclusive language - 
