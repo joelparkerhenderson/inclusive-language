@@ -5,7 +5,7 @@
 </blockquote>
 
 
-## What are good introductions to inclusive language and psychological safety?
+## What are introductions to inclusive language, gender bias, and psychological safety?
 
 * Introductions by The United Nations in
 [Arabic](https://www.un.org/ar/gender-inclusive-language/),
@@ -46,7 +46,7 @@
 [Facebook](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/),
 [GitHub](https://medium.com/gender-equality-in-tech/the-truth-about-githubs-gender-bias-b92a1d6310d3),
 [Twitter](https://www.dailydot.com/debug/bechdel-test-twitter/),
-[Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/).
+[Uber](https://edubirdie.com/examples/gender-equality-analysis-of-the-problem-at-uber/),
 [Wikipedia](https://wikipedia.org/wiki/Gender_bias_on_Wikipedia).
 
 
