@@ -141,7 +141,7 @@ For example, one of my teams evaluated a package with the name "Upskirt”.
 
 * Our client company pointed us to current news about criminals snapping “upskirt” photos of women by using surreptitious cameras and harassing interactions.
 
-* Our client company and our team banned the “Upskirt” package because the name was horrible. The name showed severe errors of judgment. The company also made it crystal clear that the name would create risks of lawsuits or investigations.
+* Our client company and our team banned the “Upskirt” package because the name was offensive to us. The client company also said the name would create risks of lawsuits or investigations.
 
 * One of the companies involved in the “Upskirt” ecosystem later faced a lawsuit for sexual harrassment, which triggered an investigation, that led to a major resignation.
 
