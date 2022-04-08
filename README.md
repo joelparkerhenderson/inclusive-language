@@ -399,7 +399,7 @@ There are many other kinds of inclusive language, and in our line of work, some 
   </thead>
   <tbody>
     <tr><td>white-list/black-list (security)</td><td>accept/reject, include/exclude, allow/disallow</td></tr>
-    <tr><td>master/slave (synchronization)</td><td>original/replica, primary/secondary, source/destination</td></tr>
+    <tr><td>master/slave (copying)</td><td>replicator/replica, original/duplicate, primary/secondary, source/destination, leader/follower, sender/receiver, publisher/subscriber, producer/consumer, writer/reader, onsite/offsite</td></tr>
     <tr><td>master branch (version control)</td><td>main branch, trunk branch, default branch</td></tr>
     <tr><td>master table (database)</td><td>schema table</td></tr>
     <tr><td>dummy value (configuration)</td><td>example value, placeholder value, sample value</tr>
