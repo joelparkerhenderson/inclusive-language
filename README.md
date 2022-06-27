@@ -385,6 +385,21 @@ Words that sound prescriptive can change to words that are individualistic.
 </table>
 
 
+## Inclusive language for business
+
+There are many other kinds of inclusive language that come up in business and in
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>best practices</td><td>our practices, company practices, practices recommended by</td></tr>
+    <tr><td>culture fit, cultural fit</td><td>values fit, organization fit, ways of working fit</td></tr>
+  </tbody>
+</table>
+
+
 ## Inclusive language for technology
 
 There are many other kinds of inclusive language, and in our line of work, some that come up are about techology.
