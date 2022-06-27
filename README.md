@@ -381,6 +381,7 @@ Words that sound prescriptive can change to words that are individualistic.
     <tr><td>masculine pronouns, male pronouns</td><td>he/him pronouns</td></tr>
     <tr><td>hermaphrodite</td><td>intersex</td></tr>
     <tr><td>lifestyle, preference</td><td>orientation, identity</td></tr>
+    <tr><td>non-binary</td><td>agender, bigender, pangender, multigender, genderqueer</td></tr>
   </tbody>
 </table>
 
