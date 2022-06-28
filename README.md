@@ -397,7 +397,8 @@ There are many other kinds of inclusive language that come up in business and in
   <tbody>
     <tr><td>best practices</td><td>our practices, company practices, practices recommended by</td></tr>
     <tr><td>culture fit, cultural fit</td><td>values fit, organization fit, ways of working fit</td></tr>
-    <tr><td>Diversity Equity Inclusion (DEI)</td><td>Diversity Equity Inclusion Belonging (DEIB)</td></tr>  
+    <tr><td>Diversity Equity Inclusion (DEI)</td><td>Diversity Equity Inclusion Belonging (DEIB)</td></tr>
+    <tr><td>Underrepresented Minority (URM)</td><td>Historically Underrepresented Group (HUG)</td></tr>  
   </tbody>
 </table>
 
