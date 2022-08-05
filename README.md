@@ -20,9 +20,9 @@ We welcome contributions in other languages.
 [Spanish](https://www.un.org/es/gender-inclusive-language/)
 
 * United Nations - disability inclusion language guidelines -
-[Chinese](doc/un.org/disability-inclusive-language-guidelines-zh.pdf)
-[English](doc/un.org/disability-inclusive-language-guidelines-en.pdf)
-[French](doc/un.org/disability-inclusive-language-guidelines-fr.pdf)
+[Chinese](doc/un.org/disability-inclusive-language-guidelines-zh.pdf),
+[English](doc/un.org/disability-inclusive-language-guidelines-en.pdf),
+[French](doc/un.org/disability-inclusive-language-guidelines-fr.pdf),
 [Russian](doc/un.org/disability-inclusive-language-guidelines-ru.pdf)
 
 * Inclusive language in technology:
