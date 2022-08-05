@@ -425,8 +425,8 @@ Perjoratives and idioms:
     <tr><td>I have Alzheimer's</td><td>I'm forgetful</td></tr>
     <tr><td>I'm paranoid</td><td>I'm mistrustful</td></tr>
     <tr><td>I'm lame</td><td>I'm boring, I'm not cool</td></tr>
-    <tr><td>I'm a spaz</td><td>Hold me back (thanks to Lizzo!)</td></tr>
-    <tr><td>Spazzin'</td><td>Blastin' (thanks to Beyonce!)</td>
+    <tr><td>I'm a spaz</td><td>Hold me back (thanks Hannah &amp; Lizzo!)</td></tr>
+    <tr><td>Spazzin'</td><td>Blastin' (thanks Hannah &amp; Beyonce!)</td>
   </tbody>
 </table>
 
