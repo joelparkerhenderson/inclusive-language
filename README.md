@@ -370,6 +370,67 @@ Phrases with "man" can change to use "one" or "person".
 </table>
 
 
+## Disability-related
+
+Phase out phrases that have the disability before the person; phase in phrases that have the person before the disability.
+
+Phase out "people"; phase in "persons".
+
+Phase out "special"; phase in "tailored".
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>disabled/handicapped/differently-abled person</td><td>person with disability</td></tr>
+    <tr><td>disabled/handicapped/differently-abled people</td><td>persons with disabilities</td></tr>
+    <tr><td>disabled/handicapped/differently-abled place</td>accessible place</td></tr>
+    <tr><td>person/people of determination</td><td>person with disability</td></tr>
+    <tr><td>special needs/assistance/education</td><td>tailored needs/assistance/education</td></tr>
+    <tr><td>suffering/afflicted/stricken/troubled (with a disability)</td><td>has a disability</td></tr>
+  </tbody>
+</table>
+
+Specific disabilities:
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>retarded, simple, slow, afflicted, brain- damaged, intellectually challenged, subnormal, of unsound mind, feeble-minded, mentally handicapped</td><td>person with an intellectual disability</td></tr>
+    <tr><td>insane, crazy, maniac, psycho, hypersensitive, lunatic, demented, panicked, agitated, mentally deranged, mentally ill</td><td>person with a psychosocial disability</td></tr>
+    <tr><td>lame, limping</td><td>person with a mobility disability</td></tr>
+    <tr><td>crippled, invalid, deformed, physically challenged</td><td>person with a physical disability</td><tr>
+    <tr><td>albino</td><td>person with albinism</td></tr>
+    <tr><td>midget, dwarf, stunted</td><td>person of short stature</td></tr>
+    <tr><td>leper</td><td>person affected by leprosy</td></tr>
+    <tr><td>mongoloid</td><td>person with trisomy-21, person with Down syndrome</td></tr>
+    <tr><td>confined/restricted to a wheelchair, wheelchair-bound, wheelchair user</td><td>person who uses a wheelchair</td></tr>
+  </tbody>
+</table>
+
+Perjoratives and idioms:
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>blind as a bat</td><td>completely blind, unable to see</td></tr>
+    <tr><td>deaf as a post, deaf as a doorknob, deaf as a doornail</td><td>completely deaf, unable to hear</td></tr>
+    <tr><td>dumb as a rock, dumb as a doorknob, dumb as a doornail</td><td>clueless, stupid</td></tr>
+    <tr><td>lame duck</td><td>ineffectual, unsuccessful, in the final period of office</td></tr>
+    <tr><td>I have Alzheimer's</td><td>I'm forgetful</td></tr>
+    <tr><td>I'm paranoid</td><td>I'm mistrustful</td></tr>
+    <tr><td>I'm lame</td><td>I'm boring, I'm not cool</td></tr>
+    <tr><td>I'm a spaz</td><td>Hold me back (thanks to Lizzo!)</td></tr>
+    <tr><td>Spazzin'</td><td>Blastin' (thanks to Beyonce!)</td>
+  </tbody>
+</table>
+
+
 ## Transgender-related
 
 Words that sound prescriptive can change to words that are individualistic.
