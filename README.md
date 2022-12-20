@@ -225,6 +225,20 @@ Be aware that in some contexts, some meanings may differ; for example, in some c
   </tbody>
 </table>
 
+## Roles with -lord or -lady
+
+Roles that end with gendered suffix "-lord" or "-lady" can change to end with "-keeper", which is the original derivation in English.
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>lord, lady</td><td>noble, liege, monarch, regent, sovereign</td></tr>
+    <tr><td>landlord, landlady</td><td>landkeeper, property owner</td></tr>
+    <tr><td>overlord, overlady</td><td>overkeeper, ruler, authority</td></tr>
+  </tbody>
+</table>
 
 ## Phrases
 
@@ -240,6 +254,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>gentlemen's agreement, gentlewomen's agreement</td><td>unwritten agreement, honor agreement</td></tr>
     <tr><td>grandfather clause, grandmother clause</td><td>pre-existing clause, pre-defined clause</td></tr>
     <tr><td>John Q. Public, Jane Q. Public</td><td>the public</td></tr>
+    <tr><td>low man on the totem pole</td><td>low person on the list, least one in the group</td></tr>
     <tr><td>maiden voyage</td><td>first voyage</td></tr>
     <tr><td>man about town, woman about town</td><td>bon vivant, mover and shaker</td></tr>
     <tr><td>man among men, woman among women</td><td>outstanding person, excellent person</td></tr>
@@ -399,15 +414,22 @@ Specific disabilities:
     <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
   </thead>
   <tbody>
-    <tr><td>retarded, simple, slow, afflicted, brain- damaged, intellectually challenged, subnormal, of unsound mind, feeble-minded, mentally handicapped</td><td>person with an intellectual disability</td></tr>
+    <tr><td>addict</td><td>person with an addiction, person with a substance disorder</td></tr>
+    <tr><td>addicted (in a pop culture sense)</td><td>excited, immersed, engrossed</td></tr>
+    <tr><td>albino</td><td>person with albinism</td></tr>
+    <tr><td>basket case</td><td>useless, unable to cope, unfunctional</td></tr>
+    <tr><td>confined/restricted to a wheelchair, wheelchair-bound, wheelchair user</td><td>person who uses a wheelchair</td></tr>
+    <tr><td>crazy (in a psychological sense)</td><td>person with a psychosocial disability</td></tr>
+    <tr><td>crazy (in a pop culture postive sense)</td><td>excited, enthusiastic, fanatical, passionate</td></tr>
+    <tr><td>crazy (in a pop culture negative sense)</td><td>foolish, irresponsible, unsound</td></tr>
+    <tr><td>crippled, invalid, deformed, physically challenged</td><td>person with a physical disability</td><tr>
     <tr><td>insane, crazy, maniac, psycho, hypersensitive, lunatic, demented, panicked, agitated, mentally deranged, mentally ill</td><td>person with a psychosocial disability</td></tr>
     <tr><td>lame, limping</td><td>person with a mobility disability</td></tr>
-    <tr><td>crippled, invalid, deformed, physically challenged</td><td>person with a physical disability</td><tr>
-    <tr><td>albino</td><td>person with albinism</td></tr>
-    <tr><td>midget, dwarf, stunted</td><td>person of short stature</td></tr>
     <tr><td>leper</td><td>person affected by leprosy</td></tr>
+    <tr><td>midget, dwarf, stunted</td><td>person of short stature</td></tr>
     <tr><td>mongoloid</td><td>person with trisomy-21, person with Down syndrome</td></tr>
-    <tr><td>confined/restricted to a wheelchair, wheelchair-bound, wheelchair user</td><td>person who uses a wheelchair</td></tr>
+    <tr><td>OCD, obsessive-compulsive disorder (in a pop culture sense)</td><td>very precise, highly specific, extremely detailed</td></tr>
+    <tr><td>retarded, simple, slow, afflicted, brain- damaged, intellectually challenged, subnormal, of unsound mind, feeble-minded, mentally handicapped</td><td>person with an intellectual disability</td></tr>
   </tbody>
 </table>
 
@@ -480,12 +502,13 @@ There are many other kinds of inclusive language, and in our line of work, some 
   </thead>
   <tbody>
     <tr><td>white-list/black-list (security)</td><td>accept/reject, include/exclude, allow/disallow</td></tr>
+    <tr><td>culture fit (human resources)</td><td>values fit</td>
+    <tr><td>dummy value (configuration)</td><td>example value, placeholder value, sample value</tr>
+    <tr><td>housekeeping (project managment)</td><td>cleanup, maintenance, streamlining</td>
     <tr><td>master/slave (copying)</td><td>replicator/replica, original/duplicate, primary/secondary, source/destination, leader/follower, sender/receiver, publisher/subscriber, producer/consumer, writer/reader, onsite/offsite</td></tr>
     <tr><td>master branch (version control)</td><td>main branch, trunk branch, default branch</td></tr>
     <tr><td>master table (database)</td><td>schema table</td></tr>
-    <tr><td>dummy value (configuration)</td><td>example value, placeholder value, sample value</tr>
     <tr><td>native feature (user interface)</td><td> core feature, built-in feature</td></tr>
-    <tr><td>culture fit (human resources)</td><td>values fit</td>
-    <tr><td>housekeeping (project managment)</td><td>cleanup, maintenance, streamlining</td>
+    <tr><td>scrum master</td><td>Scrum leader, Scrum manager</td></tr>
   </tbody>
 </table>
