@@ -315,7 +315,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>ladies &amp; gentlemen</td><td>everyone, esteemed guests, honored attendees</td></tr>
     <tr><td>men &amp; women</td><td>everyone, attendees, guests, adults, colleagues, coworkers, etc.</td></tr>
     <tr><td>boys &amp; girls</td><td>everyone, attendees, guests, children, students, classmates, etc.</td></tr>
-    <tr><td> Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
+    <tr><td>Mr., Ms., Mrs., Miss, Madam, Mme.</td><td>Mx. (pronounced "mix")</td></tr>
   </tbody>
 </table>
 
@@ -415,7 +415,7 @@ Phase out "special"; phase in "tailored".
   <tbody>
     <tr><td>disabled/handicapped/differently-abled person</td><td>person with disability</td></tr>
     <tr><td>disabled/handicapped/differently-abled people</td><td>persons with disabilities</td></tr>
-    <tr><td>disabled/handicapped/differently-abled place</td>accessible place</td></tr>
+    <tr><td>disabled/handicapped/differently-abled place</td><td>accessible place</td></tr>
     <tr><td>person/people of determination</td><td>person with disability</td></tr>
     <tr><td>special needs/assistance/education</td><td>tailored needs/assistance/education</td></tr>
     <tr><td>suffering/afflicted/stricken/troubled (with a disability)</td><td>has a disability</td></tr>
