@@ -240,6 +240,21 @@ Roles that end with gendered suffix "-lord" or "-lady" can change to end with "-
   </tbody>
 </table>
 
+## Roles with gender
+
+Roles with gender words can change to use pan-gender words.
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>king, queen</td><td>monarch, the crown, your majesty</td></tr>
+    <tr><td>prince, princess</td><td>royal, highness, heir to the throne, eminence, liege</td></tr>
+    <tr><td>lord in waiting, lady in waiting</td><td>courtier, royal attendant, valet</td></tr>
+  </tbody>
+</table>
+
 ## Phrases
 
 Phrases with "man" can change to use "one" or "person".
@@ -428,7 +443,7 @@ Specific disabilities:
     <tr><td>leper</td><td>person affected by leprosy</td></tr>
     <tr><td>midget, dwarf, stunted</td><td>person of short stature</td></tr>
     <tr><td>mongoloid</td><td>person with trisomy-21, person with Down syndrome</td></tr>
-    <tr><td>OCD, obsessive-compulsive disorder (in a pop culture sense)</td><td>very precise, highly specific, extremely detailed</td></tr>
+    <tr><td>OCD, obsessive-compulsive disorder (in a pop culture sense)</td><td>very precise, highly specific, extremely detail-oriented</td></tr>
     <tr><td>retarded, simple, slow, afflicted, brain- damaged, intellectually challenged, subnormal, of unsound mind, feeble-minded, mentally handicapped</td><td>person with an intellectual disability</td></tr>
   </tbody>
 </table>
@@ -445,6 +460,7 @@ Perjoratives and idioms:
     <tr><td>dumb as a rock, dumb as a doorknob, dumb as a doornail</td><td>clueless, stupid</td></tr>
     <tr><td>lame duck</td><td>ineffectual, unsuccessful, in the final period of office</td></tr>
     <tr><td>I have Alzheimer's</td><td>I'm forgetful</td></tr>
+    <tr><td>I have OCD</td><td>I'm very precise, highly specific, extremely detail-oriented</td></tr>
     <tr><td>I'm paranoid</td><td>I'm mistrustful</td></tr>
     <tr><td>I'm lame</td><td>I'm boring, I'm not cool</td></tr>
     <tr><td>I'm a spaz</td><td>Hold me back (thanks Hannah &amp; Lizzo!)</td></tr>
