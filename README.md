@@ -63,6 +63,8 @@ We welcome contributions in other languages.
 [PepsiCo](https://pepsico.com),
 [Unilever](https://unilever.com).
 
+* [Elimination of Harmful Language Initiative by Stanford University](doc/elimination-of-harmful-language-initiative-by-stanford.pdf)
+  
 * [Writing Help Central: Gender-Neutral Equivalent Words](http://www.writinghelp-central.com/gender-neutral.html)
 
 * [Good Practices: Inclusive Language](https://lgbtq.umd.edu/good-practices-inclusive-language)
@@ -493,7 +495,7 @@ Words that sound prescriptive can change to words that are individualistic.
 
 ## Inclusive language for business
 
-There are many other kinds of inclusive language that come up in business and in
+There are many kinds of inclusive language that come up in business. Here are some examples.
 
 <table class="words">
   <thead>
@@ -504,6 +506,48 @@ There are many other kinds of inclusive language that come up in business and in
     <tr><td>culture fit, cultural fit</td><td>values fit, practices match, ways of working alignment</td></tr>
     <tr><td>Diversity Equity Inclusion (DEI)</td><td>Diversity Equity Inclusion Belonging (DEIB)</td></tr>
     <tr><td>Underrepresented Minorities (URM)</td><td>Historically Underrepresented Groups (HUG), Historically Marginalized Communities (HMC)</td></tr>     <tr><td>Gender Non-Conforming (GNC)</td><td>Gender Independent (GI), Gender Individualistic (GI), Gender Variant (GV)</td></tr>
+  </tbody>
+</table>
+
+
+## Inclusive language for geography
+
+There are many kinds of inclusive language that come up in geography, such as when a country is seeking indpendence or autonomy, and the country's leaders choose a new name.
+
+Reference:
+
+* [https://wikipedia.org/wiki/Geographical_renaming](https://wikipedia.org/wiki/Geographical_renaming)
+
+Countries:
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>Cape Verde</td><td>Cabo Verde</td></tr>
+    <tr><td>Ceylon</td><td>Sri Lanka</td></tr>
+    <tr><td>Czech Republic</td><td>Czechia</td></tr>
+    <tr><td>Holland</td><td>The Netherlands</td></tr>
+    <tr><td>Republic of Macedonia</td><td>Republic of North Macedonia</td></tr>
+    <tr><td>Swaziland</td><td>Eswatini</td></tr>
+    <tr><td>Turkey</td><td>Türkiye</td></tr>
+    <tr><td>Wales</td><td>Cymru</td></tr>
+  </tbody>
+</table>
+
+Geography places within Cymru/Wales:
+
+<table class="words">
+  <thead>
+    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>Snowdonia (National Park)</td><td>Eryri</td></tr>
+    <tr><td>Snowdon (Mountain)</td><td>Yr Wyddfa</td></tr>
+    <tr><td>Lake Bala</td><td>Llyn Tegid</td></tr>
+    <tr><td>Lake Australia</td><td>Llyn Bochlwyd </td></tr>
+    <tr><td>Bearded Lake</td><td>Llyn Barfog</td></tr>
   </tbody>
 </table>
 
@@ -528,3 +572,6 @@ There are many other kinds of inclusive language, and in our line of work, some 
     <tr><td>scrum master</td><td>Scrum leader, Scrum manager</td></tr>
   </tbody>
 </table>
+
+
+
