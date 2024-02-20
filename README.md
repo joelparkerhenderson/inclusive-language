@@ -397,6 +397,7 @@ Phrases with "man" can change to use "one" or "person".
   <tbody>
     <tr><td>he, she, he/she</td><td>they</td></tr>
     <tr><td>him, her, him/her</td><td>them</td></tr>
+    <tr><td>himself, herself, himself/herself</td><td>themselves, themself, oneself</td></tr>
     <tr><td>his, her, his/her</td><td>their</td></tr>
     <tr><td>his, hers, his/hers</td><td>theirs</td></tr>
   <tbody>
