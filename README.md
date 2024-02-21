@@ -136,7 +136,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
     <tr><td>pressman, presswoman</td><td>press operator</td></tr>
     <tr><td>prodigal son, prodigal daughter</td><td>prodigal child, returning child</td></tr>
-    <tr><td>repairman, repairwoman</td><td>repairperson, maintenance person, technician</td></tr>
+    <tr><td>repairman, repairwoman</td><td>repairperson, maintenance person, technician, repairer</td></tr>
     <tr><td>schoolboy, schoolgirl</td><td>schoolchild, student</td></tr>
     <tr><td>snowman, snowwoman</td><td>snowperson</td></tr>
     <tr><td>spokesman, spokeswoman</td><td>spokesperson, speaker, representative</td></tr>
@@ -159,9 +159,9 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
     <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
-    <tr><td>bagboy, baggirl</td><td>bagperson, bagger, assistant, caddy</td></tr>
-    <tr><td>batboy, batgirl</td><td>batperson, bat assistant, caddy</td></tr>
-    <tr><td>bellboy, bellgirl</td><td>bellperson, bellhop, hotel attendant</td></tr>
+    <tr><td>bagboy, baggirl, bag boy, bag girl</td><td>bagperson, bagger, assistant, caddy</td></tr>
+    <tr><td>batboy, batgirl, bat boy, bat girl</td><td>batperson, bat assistant, caddy</td></tr>
+    <tr><td>bellboy, bellgirl, bell-boy, bell-girl</td><td>bellperson, bellhop, hotel attendant</td></tr>
     <tr><td>busboy, busgirl</td><td>busperson, busser, bus staffer, kitchen helper</td></tr>
     <tr><td>cabinboy, cabingirl</td><td>cabinperson, cabin attendant, cabin helper</td></tr>
     <tr><td>choirboy, choirgirl</td><td>choirperson, choir member, choir singer</td></tr>
@@ -204,6 +204,7 @@ Be aware that in some contexts, some meanings may differ; for example, in some c
     <tr><td>tempter, temptress</td><td>tempter, enticer</td></tr>
     <tr><td>usher, usherette</td><td>usher, assistant</td></tr>
     <tr><td>waiter, waitress</td><td>waiter, server</td></tr>
+    <tr><td>DJane</td><td>DJ</td></tr>
   </tbody>
 </table>
 
@@ -285,7 +286,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>the common man</td><td>the common person, the average person</td></tr>
     <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
     <tr><td>the right man for the job</td><td>the right one for the job</td></tr>
-    <tr><td>to a man</td><td>to a one</td></tr>
+    <tr><td>to a man</td><td>each and every one</td></tr>
     <tr><td>to the last man</td><td>to the last one</td></tr>
   </tbody>
 </table>
@@ -298,7 +299,7 @@ Phrases with "man" can change to use "one" or "person".
   </thead>
   <tbody>
     <tr><td>boy, girl</td><td>person, individual, child</td></tr>
-    <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other</td></tr>
+    <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other, S/O, SO</td></tr>
     <tr><td>man, woman</td><td>person, individual, adult</td></tr>
     <tr><td>mankind, womankind</td><td>people, humans, humanity</td></tr>
     <tr><td>husband, wife</td><td>spouse, consort</td></tr>
