@@ -286,7 +286,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>the common man</td><td>the common person, the average person</td></tr>
     <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
     <tr><td>the right man for the job</td><td>the right one for the job</td></tr>
-    <tr><td>to a man</td><td>each and every one</td></tr>
+    <tr><td>to a man</td><td>everyone, each one, unanimous, without exception</td></tr>
     <tr><td>to the last man</td><td>to the last one</td></tr>
   </tbody>
 </table>
