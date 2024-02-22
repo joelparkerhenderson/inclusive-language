@@ -92,7 +92,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
     <tr><td>boss man, boss woman</td><td>boss, chief, president, leader</td></tr>
     <tr><td>brakeman, brakewoman</td><td>brake operator, train conductor's assistant</td></tr>
-    <tr><td>businessman, businesswoman</td><td>businessperson, executive, manager</td></tr>
+    <tr><td>businessman, businesswoman, business man, business woman</td><td>businessperson, business person, executive, manager</td></tr>
     <tr><td>cameraman, camerawoman, camera man, camera woman</td><td>cameraperson, camera person, camera operator, cinematographer</td></tr>
     <tr><td>careerman, careerwoman</td><td>careerperson, business person, professional, careerist</td></tr>
     <tr><td>caveman, cavewoman, cave man, cave woman</td><td>caveperson, cave person, cave dweller, prehistoric human, prehistoric person, primitive person</td></tr>
