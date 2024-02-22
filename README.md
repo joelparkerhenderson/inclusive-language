@@ -285,7 +285,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>man of letters, woman of letters</td><td>person of letters, academic, scholar</td></tr>
     <tr><td>man of the hour, woman of the hour</td><td>person of the hour, newsmaker of the hour</td></tr>
     <tr><td>man to man, woman to woman</td><td>person to person, face to face, head to head</td></tr>
-    <tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area</td></tr>
+    <tr><td>no-man's land</td><td>no-go land, neutral zone, uninhabited area, unclaimed land</td></tr>
     <tr><td>no man is an island</td><td>no one is an island</td></tr>
     <tr><td>the common man</td><td>the common person, the average person</td></tr>
     <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
