@@ -275,7 +275,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>forefathers, foremothers</td><td>foreparents, forebearers, ancestors</td></tr>
     <tr><td>founding fathers, founding mothers</td><td>founding parents, founding leaders, founders</td></tr>
     <tr><td>gentlemen's agreement, gentlewomen's agreement</td><td>unwritten agreement, honor agreement</td></tr>
-    <tr><td>grandfather clause, grandmother clause</td><td>pre-existing clause, pre-defined clause</td></tr>
+    <tr><td>grandfather clause, grandmother clause</td><td>pre-existing clause, pre-defined clause, legacy clause</td></tr>
     <tr><td>low man on the totem pole</td><td>low person on the list, least one in the group</td></tr>
     <tr><td>maiden voyage</td><td>first voyage</td></tr>
     <tr><td>man about town, woman about town</td><td>bon vivant, mover and shaker</td></tr>
