@@ -323,7 +323,8 @@ Expressions that involve gendered first names
     <tr><td>boy, girl</td><td>person, individual, child</td></tr>
     <tr><td>boyfriend, girlfriend</td><td>friend, date, partner, companion, consort, significant other, S/O, SO</td></tr>
     <tr><td>man, woman</td><td>person, individual, adult</td></tr>
-    <tr><td>mankind, womankind</td><td>people, humans, humanity</td></tr>
+    <tr><td>mankind, womankind</td><td>people, humans, humanity, humankind</td></tr>
+    <tr><td>Mother Nature</td><td>nature</td></tr>
     <tr><td>husband, wife</td><td>spouse, consort</td></tr>
   <tbody>
 </table>
