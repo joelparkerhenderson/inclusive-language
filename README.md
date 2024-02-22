@@ -105,7 +105,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>contact-man, contact-woman</td><td>contact-person, contact, coordinator</td></tr>
     <tr><td>countryman, countrywoman</td><td>countryperson, compatriot, fellow citizen</td></tr>
     <tr><td>craftsman, craftswoman</td><td>craftsperson, crafter, craft maker, artisan</td></tr>
-    <tr><td>crewman, crewwoman</td><td>crewperson, crew member</td></tr>
+    <tr><td>crewman, crewwoman</td><td>crewperson, crewmate, crew member</td></tr>
     <tr><td>dairyman, dairywoman, dairymaid</td><td>dairyperson, dairy farmer, dairy worker</td></tr>
     <tr><td>deliveryman, deliverywoman, delivery man, delivery woman</td><td>deliveryperson, delivery person, delivery driver, deliverer, courier, clerk</td></tr>
     <tr><td>doorman, doorwoman, doorsman, doorswoman</td><td>doorperson, door attendant, doorkeeper, gatekeeper, security guard, porter, concierge</td></tr>
