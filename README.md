@@ -256,6 +256,7 @@ Roles with gender words can change to use pan-gender words.
     <tr><td>king, queen</td><td>monarch, the crown, your majesty</td></tr>
     <tr><td>prince, princess</td><td>royal, highness, heir to the throne, eminence, liege</td></tr>
     <tr><td>lord in waiting, lady in waiting</td><td>courtier, royal attendant, valet</td></tr>
+    <tr><td>butler, maid</td><td>domestic worker</td></tr>
   </tbody>
 </table>
 
