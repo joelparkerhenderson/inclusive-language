@@ -411,7 +411,7 @@ Expressions that involve gendered first names
     <tr><td>brotherly love, sisterly love</td><td>siblingly love, charity, goodwill</td></tr>
     <tr><td>coed</td><td>student</td></tr>
     <tr><td>man (verb)</td><td>to guard, to staff, to operate, to mind [the store]</td></tr>
-    <tr><td>man-made, woman-made</td><td>synthetic, artificial, hand-made, machine-made</td></tr>
+    <tr><td>man-made, woman-made</td><td>human-made, synthetic, artificial, hand-made, machine-made</td></tr>
     <tr><td>manhole</td><td>utility hole, access hole, sewer hole, maintenance hole</td></tr>
     <tr><td>manpower, womanpower</td><td>personpower, teampower, workers, workforce, staff</td></tr>
     <tr><td>meter-maid, meter-matron, meter-man</td><td>meter-reader, parking enforcement officer, PEO, parking officer, parking inspector, traffic warden, civil enforcement officer</td></tr>
