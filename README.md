@@ -113,6 +113,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>enlisted man, enlisted woman</td><td>enlisted person, enlistee, soldier, recruit, private</td></tr>
     <tr><td>everyman, everywoman</td><td>everyperson, the common person, the average person, commoner, worker</td></tr>
     <tr><td>fall guy, fall gal</td><td>fall person, scapegoat</td></tr>
+    <tr><td>fellowman, fellowwoman</td><td>human person, person, fellow citizen, peer, partner, comrade</td></tr>
     <tr><td>fireman, firewoman</td><td>firefighter</td></tr>
     <tr><td>fisherman, fisherwoman</td><td>fisherperson, fisher, angler</td></tr>
     <tr><td>foreman, forewoman</td><td>foreperson, manager, supervisor, captain, team leader</td></tr>
