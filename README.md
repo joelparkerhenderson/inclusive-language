@@ -88,7 +88,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>alderman, alderwoman</td><td>alderperson, council member</td></tr>
     <tr><td>anchorman, anchorwoman</td><td>anchor, anchorperson, commentator, newscaster</td></tr>
     <tr><td>assemblyman, assemblywoman</td><td>assemblyperson, assembly member</td></tr>
-    <tr><td>barman, barwoman</td><td>barperson, barkeeper</td></tr>
+    <tr><td>barman, barwoman, barmaid</td><td>barperson, barkeeper, bar-keeper, barkeep, bar-keep, bartender, bar-tender</td></tr>
     <tr><td>bondsman, bondswoman</td><td>bondsperson, guarantor, insurer</td></tr>
     <tr><td>boss man, boss woman</td><td>boss, chief, president, leader</td></tr>
     <tr><td>brakeman, brakewoman, brakesman, brakeswoman</td><td>brake operator, train conductor's assistant</td></tr>
