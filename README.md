@@ -163,6 +163,7 @@ Roles that end with gendered suffix "-boy" or "-girl" can change to "-person" or
     <tr><td>bagboy, baggirl, bag boy, bag girl</td><td>bagperson, bagger, assistant, caddy</td></tr>
     <tr><td>batboy, batgirl, bat boy, bat girl</td><td>batperson, bat assistant, caddy</td></tr>
     <tr><td>bellboy, bellgirl, bell-boy, bell-girl</td><td>bellperson, bellhop, hotel attendant</td></tr>
+    <tr><td>boy wonder, girl wonder</td><td>child prodigy</td></tr>
     <tr><td>busboy, busgirl</td><td>busperson, busser, bus staffer, kitchen helper</td></tr>
     <tr><td>cabinboy, cabingirl</td><td>cabinperson, cabin attendant, cabin helper</td></tr>
     <tr><td>choirboy, choirgirl</td><td>choirperson, choir member, choir singer</td></tr>
