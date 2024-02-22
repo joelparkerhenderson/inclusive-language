@@ -285,7 +285,7 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>no man is an island</td><td>no one is an island</td></tr>
     <tr><td>the common man</td><td>the common person, the average person</td></tr>
     <tr><td>the man in the street</td><td>the person in the street, the average person</td></tr>
-    <tr><td>the right man for the job</td><td>the right one for the job</td></tr>
+    <tr><td>the right man for the job</td><td>the right one for the job, the right person for the job</td></tr>
     <tr><td>to a man</td><td>to a one, each one, everyone, unanimous, without exception</td></tr>
     <tr><td>to the last man</td><td>to the last one</td></tr>
   </tbody>
