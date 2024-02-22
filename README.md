@@ -272,7 +272,6 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>founding fathers, founding mothers</td><td>founding parents, founding leaders, founders</td></tr>
     <tr><td>gentlemen's agreement, gentlewomen's agreement</td><td>unwritten agreement, honor agreement</td></tr>
     <tr><td>grandfather clause, grandmother clause</td><td>pre-existing clause, pre-defined clause</td></tr>
-    <tr><td>John Q. Public, Jane Q. Public</td><td>the public</td></tr>
     <tr><td>low man on the totem pole</td><td>low person on the list, least one in the group</td></tr>
     <tr><td>maiden voyage</td><td>first voyage</td></tr>
     <tr><td>man about town, woman about town</td><td>bon vivant, mover and shaker</td></tr>
@@ -289,6 +288,28 @@ Phrases with "man" can change to use "one" or "person".
     <tr><td>the right man for the job</td><td>the right one for the job</td></tr>
     <tr><td>to a man</td><td>to a one, each one, everyone, unanimous, without exception</td></tr>
     <tr><td>to the last man</td><td>to the last one</td></tr>
+  </tbody>
+</table>
+
+## Idiomatic uses of Names and Placeholder Names
+
+Expressions that involve gendered first names
+
+<table class="words">
+  <thead>
+    <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
+  </thead>
+  <tbody>
+    <tr><td>Average Joe</td><td>average person</td></tr>
+    <tr><td>Jo Schmoe, Joe Schmo, Joe Shmo, Joe Shmoe</td><td>the public</td></tr>
+    <tr><td>Jack of all trades, Jill of all trades</td><td>all-rounder</td></tr>
+    <tr><td>John Doe, Jane Doe</td><td>unnamed individual, unidentified individual</td></tr>
+    <tr><td>John Q. Public, Jane Q. Public</td><td>the public</td></tr>
+    <tr><td>Jolly Roger</td><td>pirate flag</td></tr>
+    <tr><td>Lazy Susan</td><td>turntable</td></tr>
+    <tr><td>Peeping Tom</td><td>voyeur</td></tr>
+    <tr><td>Smart Alec</td><td>turntable</td></tr>
+    <tr><td>Tom Dick and Harry</td><td>anyone, everyone</td></tr>
   </tbody>
 </table>
 
