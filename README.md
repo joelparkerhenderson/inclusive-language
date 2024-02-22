@@ -132,7 +132,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>ombudsman, ombudswoman</td><td>ombudsperson, investigator, appointee</td></tr>
     <tr><td>outdoorsman, outdoorswoman</td><td>outdoors person</td></tr>
     <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
-    <tr><td>policeman, policewoman</td><td>police officer</td></tr>
+    <tr><td>policeman, policewoman</td><td>police officer, law enforcement officer</td></tr>
     <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
     <tr><td>pressman, presswoman</td><td>press operator, journalist, reporter</td></tr>
     <tr><td>prodigal son, prodigal daughter</td><td>prodigal child, returning child</td></tr>
