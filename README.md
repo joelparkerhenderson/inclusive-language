@@ -83,7 +83,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td><b>Gender-exclusive</b></td><td><b>Gender-inclusive</b></td></tr>
   </thead>
   <tbody>
-    <tr><td>ad-man, ad-woman</td><td>ad-person, advertising executive, promoter</td></tr>
+    <tr><td>ad-man, ad-woman, adman, adwoman</td><td>ad-person, adperson, advertising executive, ad executive, advertising agent, ad agent, promoter</td></tr>
     <tr><td>airman, airwoman</td><td>airperson, air crew member, pilot</td></tr>
     <tr><td>alderman, alderwoman</td><td>alderperson, council member</td></tr>
     <tr><td>anchorman, anchorwoman</td><td>anchor, anchorperson, commentator, newscaster</td></tr>
