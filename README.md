@@ -367,6 +367,7 @@ Expressions that involve gendered first names
     <tr><td>niece, nephew</td><td>nibling</td></tr>
     <tr><td>aunt, uncle</td><td>auncle</td></tr>
     <tr><td>fraternal twins</td><td>differentiable twins, non-identical twins</td></tr>
+    <tr><td>godfather, godmother</td><td>godparent</td></tr>
   </tbody>
 </table>
 
