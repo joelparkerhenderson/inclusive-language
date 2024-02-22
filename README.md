@@ -145,6 +145,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>sportsmanlike, sportswomanlike</td><td>sportspersonlike, sportlike, sporting, sporty</td></tr>
     <tr><td>sportsmanship, sportswomanship</td><td>sportspersonship, sportship, sporting, sporty</td></tr>
     <tr><td>statesman, stateswoman</td><td>statesperson, political leader, policy maker, diplomat</td></tr>
+    <tr><td>strongman, strongwoman</td><td>bodybuilder, strength athlete</td></tr>
     <tr><td>watchman, watchwoman</td><td>watcher, watchperson, guard, attendant, security officer, security guard</td></tr>
     <tr><td>weatherman, weatherwoman</td><td>weatherperson, weathercaster, weather forecaster, weather reporter</td></tr>
   </tbody>
