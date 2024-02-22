@@ -108,7 +108,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>crewman, crewwoman</td><td>crewperson, crew member</td></tr>
     <tr><td>dairyman, dairywoman</td><td>dairyperson, dairy farmer, dairy worker</td></tr>
     <tr><td>deliveryman, deliverywoman</td><td>deliveryperson, deliverer, courier, clerk</td></tr>
-    <tr><td>doorman, doorwoman</td><td>doorperson, door attendant, security guard</td></tr>
+    <tr><td>doorman, doorwoman, doorsman, doorswoman</td><td>doorperson, door attendant, doorkeeper, gatekeeper, security guard, porter, concierge</td></tr>
     <tr><td>draftsman, draftswoman, draughtsman, draughtswoman</td><td>draftsperson, draughtsperson, drafter</td></tr>
     <tr><td>enlisted man, enlisted woman</td><td>enlisted person, enlistee, soldier, recruit, private</td></tr>
     <tr><td>everyman, everywoman</td><td>everyperson, the common person, the average person, commoner, worker</td></tr>
