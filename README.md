@@ -101,9 +101,9 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>councilman, councilwoman</td><td>councilperson, council member</td></tr>
     <tr><td>committeeman, committeewoman</td><td>committeeperson, committee member</td></tr>
     <tr><td>confidence-man, confidence-woman</td><td>confidence-person, swindler, crook</td></tr>
-    <tr><td>congressman, congresswoman</td><td>congressperson, congressional representative, legislator</td></tr>
-    <tr><td>contact-man, contact-woman</td><td>contact-person, contact, coordinator</td></tr>
-    <tr><td>countryman, countrywoman</td><td>countryperson, compatriot, fellow citizen</td></tr>
+    <tr><td>congressman, congresswoman</td><td>congressperson, congressional representative, legislator, lawmaker, congressional delegate</td></tr>
+    <tr><td>contact-man, contact-woman, contact man, contact woman</td><td>contact-person, contact person, contact, coordinator</td></tr>
+    <tr><td>countryman, countrywoman</td><td>countryperson, compatriot, fellow citizen, fellow national</td></tr>
     <tr><td>craftsman, craftswoman</td><td>craftsperson, crafter, craft maker, artisan</td></tr>
     <tr><td>crewman, crewwoman</td><td>crewperson, crewmate, crew member</td></tr>
     <tr><td>dairyman, dairywoman, dairymaid</td><td>dairyperson, dairy farmer, dairy worker</td></tr>
