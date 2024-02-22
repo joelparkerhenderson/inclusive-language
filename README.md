@@ -96,7 +96,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>cameraman, camerawoman</td><td>cameraperson, camera operator, cinematographer</td></tr>
     <tr><td>careerman, careerwoman</td><td>careerperson, business person, professional</td></tr>
     <tr><td>caveman, cavewoman</td><td>cave person, cave dweller</td></tr>
-    <tr><td>chairman, chairwoman</td><td>chair, chairperson, coordinator, head</td></tr>
+    <tr><td>chairman, chairwoman</td><td>chair, chairperson, coordinator, head, president, director</td></tr>
     <tr><td>clergyman, clergywoman</td><td>clergyperson, clergy member, cleric, preacher</td></tr>
     <tr><td>councilman, councilwoman</td><td>councilperson, council member</td></tr>
     <tr><td>committeeman, committeewoman</td><td>committeeperson, committee member</td></tr>
