@@ -359,6 +359,7 @@ Expressions that involve gendered first names
   </thead>
   <tbody>
     <tr><td>mother, father</td><td>parent</td></tr>
+    <tr><td>mother figure, father figure</td><td>parental figure</td></tr>
     <tr><td>motherhood, fatherhood</td><td>parenthood</td></tr>
     <tr><td>daughter, son</td><td>child</td></tr>
     <tr><td>sister, brother</td><td>sibling</td></tr>
