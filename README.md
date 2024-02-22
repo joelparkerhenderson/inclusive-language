@@ -134,7 +134,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>patrolman, patrolwoman</td><td>patrolperson, patrol officer, patroller</td></tr>
     <tr><td>policeman, policewoman</td><td>police officer</td></tr>
     <tr><td>postman, postwoman</td><td>mail carrier, letter carrier, postal worker</td></tr>
-    <tr><td>pressman, presswoman</td><td>press operator, journalist</td></tr>
+    <tr><td>pressman, presswoman</td><td>press operator, journalist, reporter</td></tr>
     <tr><td>prodigal son, prodigal daughter</td><td>prodigal child, returning child</td></tr>
     <tr><td>repairman, repairwoman</td><td>repairperson, maintenance person, technician, repairer</td></tr>
     <tr><td>schoolboy, schoolgirl</td><td>schoolchild, student</td></tr>
