@@ -328,6 +328,7 @@ Expressions that involve gendered first names
     <tr><td>mankind, womankind</td><td>people, humans, humanity, humankind</td></tr>
     <tr><td>Mother Nature</td><td>nature</td></tr>
     <tr><td>husband, wife</td><td>spouse, consort</td></tr>
+    <tr><td>widow, widower</td><td>widowed person, bereaved spouse, bereaved person</td></tr>
   <tbody>
 </table>
 
