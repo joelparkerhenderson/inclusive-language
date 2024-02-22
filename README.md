@@ -116,7 +116,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>fireman, firewoman</td><td>firefighter</td></tr>
     <tr><td>fisherman, fisherwoman</td><td>fisherperson, fisher, angler</td></tr>
     <tr><td>foreman, forewoman</td><td>foreperson, manager, supervisor</td></tr>
-    <tr><td>freshman, freshwoman</td><td>first-year student, first-year member</td></tr>
+    <tr><td>freshman, freshwoman</td><td>first-year student, first-year member, newcomer, novice, beginner</td></tr>
     <tr><td>gentleman, gentlewoman</td><td>gentleperson</td></tr>
     <tr><td>handyman, handywoman</td><td>handyperson, repair person, repairperson, maintenance worker</td></tr>
     <tr><td>horseman, horsewoman</td><td>horseperson, horse rider, equestrian</td></tr>
