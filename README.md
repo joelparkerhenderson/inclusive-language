@@ -100,7 +100,7 @@ Roles that end with gendered suffix "-man" or "-woman" can change to end with "p
     <tr><td>clergyman, clergywoman</td><td>clergyperson, clergy member</td></tr>
     <tr><td>councilman, councilwoman</td><td>councilperson, council member</td></tr>
     <tr><td>committeeman, committeewoman</td><td>committeeperson, committee member</td></tr>
-    <tr><td>confidence-man, confidence-woman</td><td>confidence-person, swindler, crook</td></tr>
+    <tr><td>confidence-man, confidence-woman, con man, con woman</td><td>confidence-person, swindler, crook, trickster, con artist</td></tr>
     <tr><td>congressman, congresswoman</td><td>congressperson, congressional representative, legislator, lawmaker, congressional delegate</td></tr>
     <tr><td>contact-man, contact-woman, contact man, contact woman</td><td>contact-person, contact person, contact, coordinator</td></tr>
     <tr><td>countryman, countrywoman</td><td>countryperson, compatriot, fellow citizen, fellow national</td></tr>
