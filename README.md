@@ -301,15 +301,15 @@ Expressions that involve gendered first names
   </thead>
   <tbody>
     <tr><td>Average Joe</td><td>average person</td></tr>
-    <tr><td>Jo Schmoe, Joe Schmo, Joe Shmo, Joe Shmoe</td><td>the public</td></tr>
-    <tr><td>Jack of all trades, Jill of all trades</td><td>all-rounder</td></tr>
-    <tr><td>John Doe, Jane Doe</td><td>unnamed individual, unidentified individual</td></tr>
-    <tr><td>John Q. Public, Jane Q. Public</td><td>the public</td></tr>
-    <tr><td>Jolly Roger</td><td>pirate flag</td></tr>
-    <tr><td>Lazy Susan</td><td>turntable</td></tr>
+    <tr><td>Jo Schmoe, Joe Schmo, Joe Shmo, Joe Shmoe</td><td>anybody, no one in particular</td></tr>
+    <tr><td>Jack of all trades, Jill of all trades</td><td>all-arounder</td></tr>
+    <tr><td>John Doe, Jane Doe</td><td>unnamed person, unidentified individual, anonymous</td></tr>
+    <tr><td>John Q. Public, Jane Q. Public</td><td>citizen, common person, member of society</td></tr>
+    <tr><td>Jolly Roger</td><td>pirate flag, skull and bones</td></tr>
+    <tr><td>Lazy Susan</td><td>turntable, rotating tray</td></tr>
     <tr><td>Peeping Tom</td><td>voyeur</td></tr>
-    <tr><td>Smart Alec</td><td>turntable</td></tr>
-    <tr><td>Tom Dick and Harry</td><td>anyone, everyone</td></tr>
+    <tr><td>Smart Alec, Smart Aleck</td><td>know-it-all, conceited person</td></tr>
+    <tr><td>Tom Dick and Harry</td><td>ordinary people, anyone, everyone</td></tr>
   </tbody>
 </table>
 
