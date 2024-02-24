@@ -314,6 +314,8 @@ Expressions that involve gendered first names
     <tr><td>Peeping Tom</td><td>voyeur</td></tr>
     <tr><td>Smart Alec, Smart Aleck</td><td>know-it-all, conceited person</td></tr>
     <tr><td>Tom Dick and Harry</td><td>ordinary people, anyone, everyone</td></tr>
+    <tr><td>Father Time</td><td>time, time personified, time deity</td></tr>
+    <tr><td>Mother Nature</td><td>nature, nature personified, nature deity</td></tr>
   </tbody>
 </table>
 
