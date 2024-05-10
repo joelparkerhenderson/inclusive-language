@@ -200,6 +200,7 @@ Be aware that in some contexts, some meanings may differ; for example, in some c
     <tr><td>major, majorette</td><td>major, dancer</td></tr>
     <tr><td>masseur, masseuse</td><td>masseur, massage therapist</td></tr>
     <tr><td>patron, patroness</td><td>patron, funder</td></tr>
+    <tr><td>poet, poetess</td><td>poet, lyricist</td></tr>
     <tr><td>priest, priestess</td><td>priest, clergy</td></tr>
     <tr><td>sculptor, sculptress</td><td>sculptor, artist</td></tr>
     <tr><td>sorcerer, sorceress</td><td>sorcerer, enchanter</td></tr>
