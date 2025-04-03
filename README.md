@@ -447,6 +447,8 @@ Phase out "people"; phase in "persons".
 
 Phase out "special"; phase in "tailored".
 
+Phase out passive victim words; phase in language that respects disabled persons as active individuals with control over their own lives.
+
 <table class="words">
   <thead>
     <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
@@ -458,10 +460,12 @@ Phase out "special"; phase in "tailored".
     <tr><td>person/people of determination</td><td>person with disability</td></tr>
     <tr><td>special needs/assistance/education</td><td>tailored needs/assistance/education</td></tr>
     <tr><td>suffering/afflicted/stricken/troubled (with a disability)</td><td>has a disability</td></tr>
+    <tr><td>afflicted by, suffers from, victim of</td><td>has [name of condition or impairment]</td></tr>
+    <tr><td>able-bodied</td><td>non-disabled</td></tr>
   </tbody>
 </table>
 
-Specific disabilities:
+Specific disabilities and specific sayings:
 
 <table class="words">
   <thead>
@@ -471,38 +475,35 @@ Specific disabilities:
     <tr><td>addict</td><td>person with an addiction, person with a substance disorder</td></tr>
     <tr><td>addicted (in a pop culture sense)</td><td>excited, immersed, engrossed</td></tr>
     <tr><td>albino</td><td>person with albinism</td></tr>
-    <tr><td>basket case</td><td>useless, unable to cope, unfunctional</td></tr>
+    <tr><td>basket case (pejorative)</td><td>useless, unable to cope, unfunctional</td></tr>
+    <tr><td>blind</td>with a visual disability, with a visual impairments, partially sighted</td></tr>
+    <tr><td>blind as a bat (pejorative)</td><td>completely blind, unable to see</td></tr>
     <tr><td>confined/restricted to a wheelchair, wheelchair-bound, wheelchair user</td><td>person who uses a wheelchair</td></tr>
     <tr><td>crazy (in a psychological sense)</td><td>person with a psychosocial disability</td></tr>
     <tr><td>crazy (in a pop culture postive sense)</td><td>excited, enthusiastic, fanatical, passionate</td></tr>
     <tr><td>crazy (in a pop culture negative sense)</td><td>foolish, irresponsible, unsound</td></tr>
-    <tr><td>crippled, invalid, deformed, physically challenged</td><td>person with a physical disability</td><tr>
-    <tr><td>insane, crazy, maniac, psycho, hypersensitive, lunatic, demented, panicked, agitated, mentally deranged, mentally ill</td><td>person with a psychosocial disability</td></tr>
+    <tr><td>cripple, crippled, invalid, deformed, physically challenged</td><td>person with a physical disability</td><tr>
+    <tr><td>deaf</td><td>with a hearing disability, with a hearing impairment, who uses sign language</td></tr>
+    <tr><td>deaf as a post, deaf as a doorknob, deaf as a doornail (pejorative)</td><td>completely deaf, unable to hear</td></tr>
+    <tr><td>deranged (pejorative)</td><td>person with a psychosocial disability, person with a mental health condition</td></tr>
+    <tr><td>dumb as a rock, dumb as a doorknob, dumb as a doornail (pejorative)</td><td>clueless, stupid</td></tr>
+    <tr><td>fits, spells, attacks</td><td>seizures</td></tr>
+    <tr><td>I have Alzheimer's (sarcasm)</td><td>I'm forgetful</td></tr>
+    <tr><td>I have OCD (sarcasm)</td><td>I'm very precise, highly specific, extremely detail-oriented</td></tr>
+    <tr><td>I'm paranoid(sarcasm)</td><td>I'm mistrustful</td></tr>
+    <tr><td>I'm lame (sarcasm)</td><td>I'm boring, I'm not cool</td></tr>
+    <tr><td>I'm a spaz (sarcasm)</td><td>Hold me back (thanks Hannah &amp; Lizzo!)</td></tr>
+    <tr><td>insane, crazy, maniac, psycho, hypersensitive, lunatic, demented, panicked, agitated (pejorative)</td><td>person with a psychosocial disability, person with a mental health condition</td></tr>
     <tr><td>lame, limping</td><td>person with a mobility disability</td></tr>
+    <tr><td>lame duck</td><td>ineffectual, unsuccessful, in the final period of office</td></tr>
     <tr><td>leper</td><td>person affected by leprosy</td></tr>
-    <tr><td>midget, dwarf, stunted</td><td>person of short stature</td></tr>
+    <tr><td>mad, mad as a hatter (pejorative)</td><td>person with a psychosocial disability, person with a mental health condition</td></tr>
+    <tr><td>mental patient, mentally ill, mentally handicapped, mentally defective</td><td>with an intellectual disability, with a learning disability</td></tr>
+    <tr><td>midget, dwarf, stunted</td><td>person of short stature, person with restricted growth</td></tr>
     <tr><td>mongoloid</td><td>person with trisomy-21, person with Down syndrome</td></tr>
     <tr><td>OCD, obsessive-compulsive disorder (in a pop culture sense)</td><td>very precise, highly specific, extremely detail-oriented</td></tr>
     <tr><td>retarded, simple, slow, afflicted, brain- damaged, intellectually challenged, subnormal, of unsound mind, feeble-minded, mentally handicapped</td><td>person with an intellectual disability</td></tr>
-  </tbody>
-</table>
-
-Perjoratives and idioms:
-
-<table class="words">
-  <thead>
-    <tr><td><b>Phase out</b></td><td><b>Phase in</b></td></tr>
-  </thead>
-  <tbody>
-    <tr><td>blind as a bat</td><td>completely blind, unable to see</td></tr>
-    <tr><td>deaf as a post, deaf as a doorknob, deaf as a doornail</td><td>completely deaf, unable to hear</td></tr>
-    <tr><td>dumb as a rock, dumb as a doorknob, dumb as a doornail</td><td>clueless, stupid</td></tr>
-    <tr><td>lame duck</td><td>ineffectual, unsuccessful, in the final period of office</td></tr>
-    <tr><td>I have Alzheimer's</td><td>I'm forgetful</td></tr>
-    <tr><td>I have OCD</td><td>I'm very precise, highly specific, extremely detail-oriented</td></tr>
-    <tr><td>I'm paranoid</td><td>I'm mistrustful</td></tr>
-    <tr><td>I'm lame</td><td>I'm boring, I'm not cool</td></tr>
-    <tr><td>I'm a spaz</td><td>Hold me back (thanks Hannah &amp; Lizzo!)</td></tr>
+    <tr><td>spastic</td><td>person with cerebral palsy</td></tr>
     <tr><td>Spazzin'</td><td>Blastin' (thanks Hannah &amp; Beyoncé!)</td>
   </tbody>
 </table>
